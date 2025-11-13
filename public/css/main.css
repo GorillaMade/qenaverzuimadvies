@@ -2082,6 +2082,10 @@ section.bgimage .wrapper.wrapper--small {
   text-align: center;
 }
 
+section.services .wrapper--small {
+  text-align: center;
+}
+
 section.services .wrapper h1 {
   text-align: center;
 }
@@ -2090,29 +2094,12 @@ section.services .wrapper + .wrapper {
   margin-block-start: var(--space-xl-2xl);
 }
 
-.grid.blocks {
-  margin-block-start: var(--space-m);
-}
-.grid.blocks a {
-  text-decoration: none;
-}
-
-.blocks h4 {
-  margin-block-start: 0;
-}
-
-.blocks .hasimage img {
-  aspect-ratio: 1;
-  width: 10rem;
+section.service .featuredimage {
   margin-inline: auto;
 }
 
 section.wide h1,
 section.title h1 {
-  text-align: center;
-}
-
-section.services .wrapper--small {
   text-align: center;
 }
 

@@ -24,3 +24,4 @@ Ik vind het belangrijk dat u altijd weet waar u aan toe bent. Daarom werk ik eer
 Wilt u weten wat ik voor uw organisatie kan betekenen? Neem gerust contact met mij op!
 
 {{< /block_about >}}
+{{< block_cta >}}{{< /block_cta >}}

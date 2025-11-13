@@ -1997,13 +1997,14 @@ section.title h1 {
   text-align: center;
 }
 
-section.about .wrapper p img {
-  display: inline-block;
+section.about .wrapper p img.colorize_image {
+  display: flex;
   border-radius: 100%;
   overflow: hidden;
   aspect-ratio: 1;
-  /* width: 20rem; */
+  max-width: 25rem;
   object-fit: cover;
+  justify-self: center;
 }
 
 ul.reviews li div.box {

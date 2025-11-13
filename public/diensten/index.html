@@ -3,7 +3,7 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Services | Q &amp; A verzuimadvies</title>
+<title>Diensten | Q &amp; A verzuimadvies</title>
 
     
     
@@ -37,7 +37,7 @@
     </li><li class="nav__item">
         <a
           href="/diensten/"
-          class="nav__link"
+          class="nav__link active" aria-current="page"
         >Diensten</a>
     </li><li class="nav__item">
         <a
@@ -114,7 +114,61 @@
     </div>
 </header>
   <main>
-    
+    <section class="services">
+    <div class="wrapper wrapper--small"><h1 id="services">Services</h1>
+<ul class="breadcrumbs"><li><a href="/"></a></li><li><a href="/diensten/">Diensten</a></li></ul>
+</div>
+    <div class="wrapper">
+        <div class="filter">
+            <div class="dropdown-multiselect">
+                <button type="button" class="dropbtn">Tags filteren</button>
+                <div class="dropdown-content">
+                
+                    <label>
+                    <input type="checkbox" class="filter-checkbox" value="re-intergratie">
+                    re-intergratie
+                    </label>
+                
+                    <label>
+                    <input type="checkbox" class="filter-checkbox" value="verzuim">
+                    verzuim
+                    </label>
+                
+                </div>
+            </div>
+        </div>
+        <ul class="contentitems grid services" data-layout="thirds" role="list" data-pagesize="">
+            
+            <li class="item tag_verzuim"><h3 class="h4">Advies over wet- en regelgeving</h3>
+                
+                <div class="summary">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, ni...</p>
+                    <p><a href="/diensten/advies-over-wet-en-regelgeving/" class="button ghost smaller">Lees verder</a></p>
+                </div>
+            </li>
+            
+            <li class="item tag_re-intergratie"><h3 class="h4">Re-integratiebegeleiding</h3>
+                
+                <div class="summary">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, ni...</p>
+                    <p><a href="/diensten/re-integratiebegeleiding/" class="button ghost smaller">Lees verder</a></p>
+                </div>
+            </li>
+            
+            <li class="item tag_verzuim"><h3 class="h4">Verzuimbegeleiding</h3>
+                
+                <div class="summary">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, ni...</p>
+                    <p><a href="/diensten/verzuimbegeleiding/" class="button ghost smaller">Lees verder</a></p>
+                </div>
+            </li>
+            
+        </ul>
+        <a class="button secondary" data-button-ghost id="loadmoreposts" onclick="loadMorePosts();">...</a>
+        <script src="/js/filter.js" charset="utf-8"></script>
+    </div>
+</section>
+
 </main>
   <footer class="[] [] [ py-l-xl ]">
     <div class="wrapper">

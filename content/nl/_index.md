@@ -52,3 +52,4 @@ Q en A Verzuimadvies helpt uw organisatie met verzuimbegeleiding. Met mij aan uw
 
   De kosten zijn afhankelijk van de grootte van het bedrijf en de ondersteuning die nodig is. Neem contact met ons op voor een offerte op maat.
 {{< /block_faq >}}
+{{< block_cta >}}{{< /block_cta >}}

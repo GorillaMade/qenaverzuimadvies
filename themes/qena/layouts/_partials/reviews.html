@@ -1,9 +1,9 @@
 <!-- load reviews from data folder and display them in a ul -->
-<ul class="grid reviews" data-layout="thirds" role="list">
+<ul class="grid reviews__list" data-layout="thirds" role="list">
 {{- range (index page.Site.Data page.Site.Language.Lang).reviews -}}
     <li>
         <div class="box">
-            <div>
+            <div class="flex-group">
                 <img src="{{ if and (resources.GetMatch .image ) (ne (resources.GetMatch .image).MediaType.SubType "svg") }}{{ ((resources.GetMatch .image).Fit `200x200 jpg Smart q50`).RelPermalink | safeURL }}{{ else }}{{ .image }}{{ end }}" alt="{{ .name }} image" class="avatar colorize_image">
                 <div>
                     <h3 class="h6">{{ .name }}</h3>

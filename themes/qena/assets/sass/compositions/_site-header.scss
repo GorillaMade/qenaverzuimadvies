@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 
 .site-header {
-    box-shadow: var(--shadow-xs);
+    border-bottom: 1px solid var(--neutral-100);
 
     &__inner {
         display: flex;

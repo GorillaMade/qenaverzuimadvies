@@ -3,9 +3,9 @@ title: "Veel gestelde vragen"
 ---
 {{< block_title >}}
 
-# Veel gestelde vragen
-
 {{< breadcrumbs >}}
+
+# Veel gestelde vragen
 
 {{< /block_title >}}
 

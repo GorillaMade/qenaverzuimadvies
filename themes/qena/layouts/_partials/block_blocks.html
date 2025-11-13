@@ -6,7 +6,7 @@
     {{- end -}}
 {{- end -}}
 {{- $parts := split $inner "---" -}}
-<section class="blocks py-xl-2xl">
+<section class="blocks region">
     <div class="wrapper wrapper--small">
         {{- markdownify (index $parts 0) -}}
     </div>

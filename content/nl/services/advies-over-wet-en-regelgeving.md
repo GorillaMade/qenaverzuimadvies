@@ -1,10 +1,17 @@
 ---
 title: Advies over wet- en regelgeving
-image: /img/undraw_judge_hyqv.svg
+image: /uploads/undraw_judge_hyqv.svg
 tags:
-  - verzuim
+  - wetgeving
+  - advies
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus egestas arcu, in vestibulum tortor pellentesque vitae. Curabitur dapibus tempor libero id vulputate. Proin sodales, nisi quis laoreet commodo, sapien quam consectetur lorem, ut molestie augue eros in enim. Nam tincidunt lobortis sapien, et molestie urna viverra sollicitudin. In hac habitasse platea dictumst. Donec placerat vestibulum luctus. Sed vel convallis nisi.
+De regels rondom ziekteverzuim kunnen complex zijn. Q en A Verzuimadvies helpt u deze wetten correct toe te passen, zodat u voldoet aan alle verplichtingen en risico’s voorkomt.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla porta faucibus diam, vitae accumsan odio posuere rhoncus. Nunc pellentesque felis id sapien posuere, et commodo nisi pharetra. Cras pulvinar, urna iaculis pretium facilisis, odio dolor dictum leo, et fringilla libero ante eget elit. Vestibulum quis volutpat ligula. Fusce porta et mi luctus convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla id turpis tempor, euismod quam in, sollicitudin nisi. Vivamus a enim bibendum, posuere orci ac, lacinia erat. Morbi varius sapien efficitur, pellentesque elit in, feugiat risus. Vivamus in scelerisque nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Wij adviseren over:
+
+- De Ziektewet en de Wet Verbetering Poortwachter  
+- De verantwoordelijkheden van werkgever en werknemer  
+- Juiste dossiervorming en communicatie met instanties  
+
+Met onze kennis van wet- en regelgeving houdt u grip op het proces en voorkomt u boetes of vertraging.

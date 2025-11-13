@@ -1,5 +1,5 @@
-<section class="service py-l-xl">
-    <div class="wrapper wrapper--wide">
+<section class="service region">
+    <div class="wrapper wrapper--wide flow">
         {{ partial "breadcrumbs.html" . }}
         <h1 class="text--center">{{ page.Title | safeHTML }}</h1>
         {{ if or page.Params.date (index page.Params.tags 0) }}
@@ -12,7 +12,7 @@
             {{ if index page.Params.tags 0 }}
             <div>
                 <img src="/img/icons/material-symbols/200/rounded/label-fill.svg"class="black_2_textDark" alt="" />
-                <ul role="list">
+                <ul class="cluster" role="list">
                     {{ range page.Params.tags }}
                     <li><a href="/blog/?tag={{ . }}">{{ . }}</a>
                     {{ end }}
@@ -22,7 +22,7 @@
         </div>
         {{ end }}
     </div>
-    <div class="wrapper wrapper--wide">
+    <div class="wrapper wrapper--wide my-l">
         {{- $postimage := `/uploads/gallery/01.jpg` -}}
         {{- if page.Params.image -}}
             {{- $postimage = page.Params.image -}}
@@ -30,7 +30,7 @@
         {{- if (resources.GetMatch $postimage) -}}
             {{- $postimage = ((resources.GetMatch $postimage).Fill `1600x800 jpg Smart q50`).RelPermalink -}}
         {{- end -}}
-        <img src="{{ $postimage }}" alt="{{ .Title }}" class="featuredimage py-m" />
+        <img src="{{ $postimage }}" alt="{{ .Title }}" class="featuredimage" />
     </div>
     <div class="wrapper wrapper--small service">
         {{ page.Content }}

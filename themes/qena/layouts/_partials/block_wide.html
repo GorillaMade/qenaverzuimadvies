@@ -5,7 +5,7 @@
         {{- $inner = .RawContent -}}
     {{- end -}}
 {{- end -}}
-<section class="wide py-xl-3xl">
+<section class="wide region">
     <div class="wrapper wrapper--wide">
         {{ if eq (substr (markdownify $inner) 0 1) "<" }}{{- markdownify $inner -}}{{ else }}<p>{{- markdownify $inner -}}</p>{{ end }}
     </div>

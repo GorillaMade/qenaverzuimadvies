@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Administratie on Q &amp; A verzuimadvies</title>
+    <link>http://localhost:1313/tags/administratie/</link>
+    <description>Recent content in Administratie on Q &amp; A verzuimadvies</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <atom:link href="http://localhost:1313/tags/administratie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rapportage en administratie</title>
+      <link>http://localhost:1313/diensten/rapportage-en-administratie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diensten/rapportage-en-administratie/</guid>
+      <description>&lt;p&gt;Een goed overzicht van verzuim is essentieel voor een effectief beleid.&lt;br&gt;&#xA;Q en A Verzuimadvies ondersteunt bij de registratie, analyse en rapportage van verzuimgegevens.&lt;/p&gt;&#xA;&lt;p&gt;Wij bieden hulp bij:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Het bijhouden van verzuimregistraties en voortgangsrapportages&lt;/li&gt;&#xA;&lt;li&gt;Advies over verzuimverzekeringen en declaraties&lt;/li&gt;&#xA;&lt;li&gt;Inzicht in trends en verbeterpunten binnen de organisatie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Met duidelijke rapportages krijgt u grip op cijfers en kunt u gericht verbeteren.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

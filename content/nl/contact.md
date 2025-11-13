@@ -1,21 +1,27 @@
 ---
-title: Contact us
+title: Contact
 ---
 {{< block_title >}}
 
-# Contact us
 {{< breadcrumbs >}}
+
+# Kom in contact
 
 {{< /block_title >}}
 {{< block_contact >}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Heeft u vragen over verzuim, re-integratie of mijn dienstverlening?
+Ik help u graag verder. U kunt mij bereiken via het contactformulier, per e-mail of telefoon.
+Ik reageer altijd zo snel mogelijk.
 
-Straatnaam 1  
-1234AB Tilburg
+Beeklaan 59  
+5032 AB Tilburg   
 Nederland
 
-annemiek@qenaverzuimadvies.nl <br/>
-+31 612 345 678
+hallo@qenaverzuimadvies.nl   
++31 6 206 704 66
+
+<br>
+{{< socialbuttons >}}
 
 {{< /block_contact >}}

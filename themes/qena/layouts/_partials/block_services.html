@@ -5,10 +5,12 @@
 {{- end -}}
 {{- end -}}
 {{- $services := where page.Site.RegularPages "Section" "services" -}}
-<section class="services py-xl-2xl">
-    {{ if $inner }}<div class="wrapper wrapper--small">
+<section class="services region">
+    {{ if $inner }}
+    <div class="wrapper wrapper--wide">
         {{- markdownify $inner -}}
-    </div>{{ end }}
+    </div>
+    {{ end }}
     <div class="wrapper">
         <div class="filter">
             <div class="dropdown-multiselect">
@@ -44,12 +46,12 @@
                 {{ end }}
                 <div class="summary">
                     <p>{{ substr (.Summary | plainify) 0 190 | safeHTML }}...</p>
-                    <p><a href="{{ .RelPermalink }}" class="button ghost smaller">{{ i18n "Read more" }}</a></p>
+                    <p><a href="{{ .RelPermalink }}" class="button">{{ i18n "Read more" }}</a></p>
                 </div>
             </li>
             {{ end }}
         </ul>
         <a class="button secondary" data-button-ghost id="loadmoreposts" onclick="loadMorePosts();">{{ i18n "Read more posts" }}...</a>
-        <script src="/js/filter.js" charset="utf-8"></script>
+        <script src="/js/filter.js" charset="utf-8" defer></script>
     </div>
 </section>

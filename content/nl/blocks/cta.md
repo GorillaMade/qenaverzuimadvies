@@ -7,4 +7,4 @@ Krijg grip op verzuim binnen uw organisatie met persoonlijk en deskundig advies 
 
 {{< button label="Neem contact op" link="/contact/" variant="accent" ghost="false" >}}
 
-![](/img/undraw_teamwork_8val.svg)
+![](/uploads/undraw_contact-us_kcoa.svg)

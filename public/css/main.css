@@ -165,6 +165,17 @@ textarea:not([rows]) {
   --primary-800: oklch(42.44% 0.1809 265.64deg);
   --primary-900: oklch(37.91% 0.1378 265.52deg);
   --primary-950: oklch(28.23% 0.0874 267.94deg);
+  --secondary-50: #FFFFFF;
+  --secondary-100: #FAF8F4;
+  --secondary-200: #EDE8DE;
+  --secondary-300: #9A9180;
+  --secondary-400: #887E6C;
+  --secondary-500: #6B5F47;
+  --secondary-600: #53462D;
+  --secondary-700: #473B21;
+  --secondary-800: #3A2E18;
+  --secondary-900: #2F2411;
+  --secondary-950: #241A0B;
   --accent-50: oklch(97.96% 0.0157716185 73.6840779444deg);
   --accent-100: oklch(95.42% 0.0371544639 75.1643594676deg);
   --accent-200: oklch(90.15% 0.0729 70.7deg);
@@ -455,6 +466,94 @@ h6, .h6 {
 
 .bg-primary-950 {
   background: oklch(28.23% 0.0874 267.94deg);
+}
+
+.color-secondary-50 {
+  color: #FFFFFF;
+}
+
+.bg-secondary-50 {
+  background: #FFFFFF;
+}
+
+.color-secondary-100 {
+  color: #FAF8F4;
+}
+
+.bg-secondary-100 {
+  background: #FAF8F4;
+}
+
+.color-secondary-200 {
+  color: #EDE8DE;
+}
+
+.bg-secondary-200 {
+  background: #EDE8DE;
+}
+
+.color-secondary-300 {
+  color: #9A9180;
+}
+
+.bg-secondary-300 {
+  background: #9A9180;
+}
+
+.color-secondary-400 {
+  color: #887E6C;
+}
+
+.bg-secondary-400 {
+  background: #887E6C;
+}
+
+.color-secondary-500 {
+  color: #6B5F47;
+}
+
+.bg-secondary-500 {
+  background: #6B5F47;
+}
+
+.color-secondary-600 {
+  color: #53462D;
+}
+
+.bg-secondary-600 {
+  background: #53462D;
+}
+
+.color-secondary-700 {
+  color: #473B21;
+}
+
+.bg-secondary-700 {
+  background: #473B21;
+}
+
+.color-secondary-800 {
+  color: #3A2E18;
+}
+
+.bg-secondary-800 {
+  background: #3A2E18;
+}
+
+.color-secondary-900 {
+  color: #2F2411;
+}
+
+.bg-secondary-900 {
+  background: #2F2411;
+}
+
+.color-secondary-950 {
+  color: #241A0B;
+}
+
+.bg-secondary-950 {
+  background: #241A0B;
 }
 
 .color-accent-50 {
@@ -1703,10 +1802,10 @@ button:has(.button) {
 }
 
 .button {
-  --_button-foreground: var(--button-foreground, var(--neutral-50));
-  --_button-foreground-hover: var(--button-foreground-hover, var(--neutral-50));
-  --_button-background: var(--button-background, var(--neutral-500));
-  --_button-background-hover: var(--button-background-hover, var(--neutral-600));
+  --_button-foreground: var(--button-foreground, var(--neutral-0));
+  --_button-foreground-hover: var(--button-foreground-hover, var(--neutral-0));
+  --_button-background: var(--button-background, var(--secondary-300));
+  --_button-background-hover: var(--button-background-hover, var(--secondary-500));
   --_button-font-size: var(--button-font-size, var(--fs-step--1));
   --_button-font-weight: var(--button-font-weight, var(--fw-medium));
   --_button-padding: var(--button-padding, 0.75rem 1.5rem);
@@ -1991,9 +2090,29 @@ section.services .wrapper + .wrapper {
   margin-block-start: var(--space-xl-2xl);
 }
 
-section.small h1,
+.grid.blocks {
+  margin-block-start: var(--space-m);
+}
+.grid.blocks a {
+  text-decoration: none;
+}
+
+.blocks h4 {
+  margin-block-start: 0;
+}
+
+.blocks .hasimage img {
+  aspect-ratio: 1;
+  width: 10rem;
+  margin-inline: auto;
+}
+
 section.wide h1,
 section.title h1 {
+  text-align: center;
+}
+
+section.services .wrapper--small {
   text-align: center;
 }
 
@@ -2005,6 +2124,10 @@ section.about .wrapper p img.colorize_image {
   max-width: 25rem;
   object-fit: cover;
   justify-self: center;
+}
+
+section.reviews {
+  background: #EDE8DE;
 }
 
 ul.reviews li div.box {
@@ -2063,6 +2186,7 @@ ul.reviews li div.box > div:nth-child(1) {
 .faqs details summary {
   font-weight: var(--fw-bold);
   padding: var(--space-s);
+  color: var(--primary-900);
   background: var(--neutral-100);
   border-radius: var(--radius-xs);
   cursor: pointer;
@@ -2113,8 +2237,8 @@ input:not([type=submit], [type=checkbox], [type=radio]), textarea {
   cursor: pointer;
 }
 
-.box {
-  background: var(--neutral-50);
+.contact .wrapper .switcher div .box {
+  background: #887E6C;
   padding: var(--space-m);
   border-radius: var(--radius-m);
 }
@@ -2130,6 +2254,12 @@ input:not([type=submit], [type=checkbox], [type=radio]), textarea {
 
 .faq__content *:first-child {
   margin-block-start: 0;
+}
+
+.contact .box {
+  background: var(--secondary-100);
+  padding: var(--space-l);
+  border-radius: var(--radius-m);
 }
 
 /*# sourceMappingURL=main.css.map */

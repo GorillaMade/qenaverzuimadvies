@@ -23,6 +23,11 @@ Ik help werkgevers en medewerkers stap voor stap. Duidelijke afspraken, praktisc
 ![](uploads/krakenimages-376KN_ISplE-unsplash.jpg)
 
 {{< /block_title >}}
+{{< block_services >}}
+
+## Mijn diensten
+
+{{< /block_services >}}
 {{< block_image reversed="true" background-color="bg-neutral-50" >}}
 
 ## Waarom kiezen voor Q en A Verzuimadvies?
@@ -38,7 +43,6 @@ Q en A Verzuimadvies helpt uw organisatie met verzuimbegeleiding. Met mij aan uw
 - **Duidelijk en betrouwbaar**
 
 {{< /block_image >}}
-{{< block_reviews >}}{{< /block_reviews >}}
 {{< block_faq title="Veel gestelde vragen" >}}
   ## Wat doet Q en A Verzuimadvies precies?
 
@@ -52,4 +56,5 @@ Q en A Verzuimadvies helpt uw organisatie met verzuimbegeleiding. Met mij aan uw
 
   De kosten zijn afhankelijk van de grootte van het bedrijf en de ondersteuning die nodig is. Neem contact met ons op voor een offerte op maat.
 {{< /block_faq >}}
+{{< block_reviews >}}{{< /block_reviews >}}
 {{< block_cta >}}{{< /block_cta >}}

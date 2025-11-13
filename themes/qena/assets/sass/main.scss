@@ -79,16 +79,39 @@ section.services .wrapper + .wrapper {
     margin-block-start: var(--space-xl-2xl);
 }
 
+.grid.blocks {
+    margin-block-start: var(--space-m);
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.blocks {
+    h4 {
+        margin-block-start: 0;
+    }
+}
+
+.blocks .hasimage img {
+    aspect-ratio: 1;
+    width: 10rem;
+    margin-inline: auto;
+}
+
 // -----------------------------------------------------------------------------
 //
 // -----------------------------------------------------------------------------
 
-section.small,
 section.wide,
 section.title {
     h1 {
         text-align: center;
     }
+}
+
+section.services .wrapper--small {
+    text-align: center;
 }
 
 
@@ -109,6 +132,10 @@ section.about .wrapper p img.colorize_image {
 // -----------------------------------------------------------------------------
 //
 // -----------------------------------------------------------------------------
+
+section.reviews {
+    background: #EDE8DE;
+}
 
 ul.reviews li div.box {
     color: var(--neutral-600);
@@ -172,6 +199,7 @@ ul.reviews li div.box>div:nth-child(1) {
         summary {
             font-weight: var(--fw-bold);
             padding: var(--space-s);
+            color: var(--primary-900);
             background: var(--neutral-100);
             border-radius: var(--radius-xs);
             cursor: pointer;
@@ -226,9 +254,8 @@ input:not([type="submit"], [type="checkbox"], [type="radio"]), textarea {
   cursor: pointer;
 }
 
-
-.box {
-    background: var(--neutral-50);
+.contact .wrapper .switcher div .box {
+    background: #887E6C;
     padding: var(--space-m);
     border-radius: var(--radius-m);
 }
@@ -247,4 +274,11 @@ input:not([type="submit"], [type="checkbox"], [type="radio"]), textarea {
     *:first-child {
         margin-block-start: 0;
     }
+}
+
+
+.contact .box {
+    background: var(--secondary-100);
+    padding: var(--space-l);
+    border-radius: var(--radius-m);
 }

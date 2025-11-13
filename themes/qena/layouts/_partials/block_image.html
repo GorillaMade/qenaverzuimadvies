@@ -10,7 +10,7 @@
 {{ $image := index (findRE `(?s)<p><img.*?p>` $inner 1) 0 }}
 {{ $inner = replace $inner $image "" 1 }}
 
-<section class="text-image py-xl-3xl">
+<section class="text-image py-xl-2xl">
     <div class="wrapper switcher ai--center">
         <div class="text">
             <div>{{ $inner | safeHTML }}</div>

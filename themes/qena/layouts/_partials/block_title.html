@@ -45,7 +45,7 @@
 
 <section class="title {{ if $bg }}bgimage hasbackgroundcolor{{ end }}">
   {{- if $bg -}}
-  <div class="bgimage py-l-xl" style="background: url('{{ $bg }}') center center / cover no-repeat;">
+  <div class="bgimage py-2xl-3xl" style="background: url('{{ $bg }}') center center / cover no-repeat;">
       {{ if not $empty }}<div class="overlay"></div>{{ end }}
       <div class="wrapper wrapper--wide text--center">
           {{ $inner | safeHTML }}

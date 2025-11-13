@@ -1,6 +1,6 @@
 ---
 title: Re-integratiebegeleiding
-image: /uploads/photos/08.jpg
+image: /img/undraw_resume_jrgi.svg
 tags:
   - re-intergratie
 ---

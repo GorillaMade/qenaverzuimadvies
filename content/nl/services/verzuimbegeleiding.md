@@ -1,6 +1,6 @@
 ---
 title: Verzuimbegeleiding
-image: /uploads/photos/06.jpg
+image: /img/undraw_meeting_dunc.svg
 tags:
   - verzuim
 ---

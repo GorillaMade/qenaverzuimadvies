@@ -1,6 +1,6 @@
 ---
 title: Advies over wet- en regelgeving
-image: /uploads/photos/06.jpg
+image: /img/undraw_judge_hyqv.svg
 tags:
   - verzuim
 ---

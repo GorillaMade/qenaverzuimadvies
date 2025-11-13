@@ -14,3 +14,4 @@ title: "Veel gestelde vragen"
 {{< faq >}}
 
 {{< /block_wide >}}
+{{< block_cta >}}{{< /block_cta >}}

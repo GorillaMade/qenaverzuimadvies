@@ -5,12 +5,10 @@
         {{- $inner = .RawContent -}}
     {{- end -}}
 {{- end -}}
-<section class="contact py-xl-3xl">
+<section class="contact py-xl-2xl">
     <div class="wrapper switcher">
-        <div>
-            <div class="box">
-                {{- partial "form.html" (index page.Site.Data page.Site.Language.Lang).contactform -}}
-            </div>
+        <div class="box">
+            {{- partial "form.html" (index page.Site.Data page.Site.Language.Lang).contactform -}}
         </div>
         <div class="text">
             {{- markdownify $inner -}}

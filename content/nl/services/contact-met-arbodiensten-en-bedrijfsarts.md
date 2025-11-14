@@ -1,6 +1,6 @@
 ---
 title: Contact met arbodiensten en bedrijfsarts
-image: /uploads/undraw_doctors_hwty.svg
+image: /uploads/undraw_legal-counsel_kdnh.svg
 tags:
   - arbodienst
   - bedrijfsarts

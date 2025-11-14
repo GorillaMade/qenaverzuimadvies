@@ -234,6 +234,13 @@ h6, .h6 {
   font-size: var(--fs-step-0);
 }
 
+a:not([class]) {
+  color: var(--accent-500);
+}
+a:not([class]):is(:hover, :focus-visible) {
+  color: var(--accent-800);
+}
+
 .cluster {
   display: flex;
   flex-wrap: wrap;
@@ -1803,11 +1810,11 @@ ul.breadcrumbs {
   width: fit-content;
 }
 ul.breadcrumbs li {
-  font-size: var(--fs-step--2);
+  font-size: var(--fs-step--1);
 }
 ul.breadcrumbs li:not(:last-child):after {
   content: "/";
-  margin-inline: var(--space-2xs);
+  margin-inline: var(--space-xs);
 }
 
 button:has(.button) {

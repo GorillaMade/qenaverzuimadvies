@@ -1,6 +1,6 @@
 ---
 title: Rapportage en administratie
-image: /uploads/undraw_data_re_80ws.svg
+image: /uploads/undraw_connecting-teams_nnjy.svg
 tags:
   - administratie
   - rapportage

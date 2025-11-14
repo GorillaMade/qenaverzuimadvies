@@ -1,6 +1,6 @@
 ---
 title: Preventie en verzuimbeleid
-image: /uploads/undraw_health_check_re_iif0.svg
+image: /uploads/undraw_business-chat_xea1.svg
 tags:
   - preventie
   - beleid

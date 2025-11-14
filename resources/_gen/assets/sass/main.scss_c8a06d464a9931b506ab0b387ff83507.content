@@ -2070,11 +2070,15 @@ button:has(.button) {
 }
 
 .image section.title .wrapper,
+section.title .wrapper--small,
+section.title .wrapper--wide,
 section.services .wrapper--small,
 section.services .wrapper--wide {
   text-align: center;
 }
 .image section.title .wrapper h1,
+section.title .wrapper--small h1,
+section.title .wrapper--wide h1,
 section.services .wrapper--small h1,
 section.services .wrapper--wide h1 {
   margin-block-start: var(--space-2xs);

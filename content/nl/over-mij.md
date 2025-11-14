@@ -22,7 +22,7 @@ Voor mij staat een gezonde werkplek voorop. Door samen te werken met bedrijven e
 
 Ik vind het belangrijk dat u altijd weet waar u aan toe bent. Daarom werk ik eerlijk, praktisch en betrokken.
 
-Wilt u weten wat ik voor uw organisatie kan betekenen? Neem gerust contact met mij op!
+Wilt u weten wat ik voor uw organisatie kan betekenen? Neem gerust [contact](/contact/) met mij op!
 
 {{< socialbuttons >}}
 

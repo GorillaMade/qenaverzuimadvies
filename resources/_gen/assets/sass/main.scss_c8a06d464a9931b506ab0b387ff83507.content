@@ -205,6 +205,10 @@ h4, h5, h6 {
   line-height: 1.2;
   color: inherit;
 }
+h1:is(:first-of-type), h2:is(:first-of-type), h3:is(:first-of-type),
+h4:is(:first-of-type), h5:is(:first-of-type), h6:is(:first-of-type) {
+  margin-block-start: 0;
+}
 
 h1, .h1 {
   font-size: var(--fs-step-5);
@@ -268,7 +272,7 @@ h6, .h6 {
 .switcher {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--switcher-gap, var(--space-s-l, 2rem));
+  gap: var(--switcher-gap, var(--space-l-xl));
   align-items: var(--switcher-vertical-alignment, flex-start);
 }
 .switcher > * {
@@ -2102,6 +2106,9 @@ section.services .wrapper h1 {
 section.services .wrapper + .wrapper {
   margin-block-start: var(--space-xl-2xl);
 }
+section.services .filter {
+  margin-bottom: var(--space-xl);
+}
 
 section.service .meta {
   width: fit-content;
@@ -2118,11 +2125,12 @@ section.service .featuredimage {
 }
 
 .dropbtn {
-  background-color: var(--neutral-0);
-  border: 1px solid var(--neutral-200);
-  padding: 0.5rem 1rem;
+  background-color: transparent;
+  border: 1px solid var(--neutral-400);
+  padding: var(--space-xs);
   cursor: pointer;
   border-radius: var(--radius-s);
+  font-weight: var(--fw-medium);
 }
 
 .dropdown-content {
@@ -2132,7 +2140,7 @@ section.service .featuredimage {
   min-width: max-content;
   border: 1px solid var(--neutral-200);
   z-index: 10;
-  max-height: 250px;
+  max-height: 180px;
   overflow-y: auto;
   border-radius: var(--radius-s);
 }
@@ -2143,7 +2151,7 @@ section.service .featuredimage {
 
 .dropdown-content label {
   display: block;
-  padding: 0.25rem 0.5rem;
+  padding: var(--space-2xs);
   cursor: pointer;
 }
 
@@ -2274,6 +2282,21 @@ ul.buttons.social .button.icon img {
   width: calc(100% - 1em);
   height: calc(100% - 1em);
   filter: invert(1);
+}
+
+.image img {
+  border-radius: var(--radius-m);
+}
+
+.text-image .text div ul {
+  list-style-type: none !important;
+}
+.text-image .text div ul li:before {
+  color: inherit;
+  content: "✓";
+  display: inline-block;
+  margin-inline-start: -36px;
+  width: 36px;
 }
 
 /*# sourceMappingURL=main.css.map */

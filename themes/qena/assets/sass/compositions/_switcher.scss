@@ -4,7 +4,7 @@
 .switcher {
     display: flex;
     flex-wrap: wrap;
-    gap: var(--switcher-gap, var(--space-s-l, 2rem));
+    gap: var(--switcher-gap, var(--space-l-xl));
     align-items: var(--switcher-vertical-alignment, flex-start);
 
 

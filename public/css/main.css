@@ -1816,6 +1816,9 @@ ul.breadcrumbs li:not(:last-child):after {
   content: "/";
   margin-inline: var(--space-xs);
 }
+ul.breadcrumbs li a {
+  text-decoration: none;
+}
 
 button:has(.button) {
   all: unset;

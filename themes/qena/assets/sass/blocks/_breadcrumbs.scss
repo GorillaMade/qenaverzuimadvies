@@ -15,5 +15,9 @@ ul.breadcrumbs {
                 margin-inline: var(--space-xs);
             }
         }
+
+        a {
+            text-decoration: none;
+        }
     }
 }

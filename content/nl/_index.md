@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 description: ""
 
 meta:
@@ -60,7 +60,7 @@ Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u pro
   ## Wat kost het om Q en A Verzuimadvies in te schakelen?
 
   De kosten zijn afhankelijk van de grootte van het bedrijf en de ondersteuning die nodig is. Neem contact met ons op voor een offerte op maat.
-  
+
 {{< /block_faq >}}
 {{< block_reviews >}}{{< /block_reviews >}}
 {{< block_cta >}}{{< /block_cta >}}

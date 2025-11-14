@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
     <loc>http://localhost:1313/blocks/reviews/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/administratie/</loc>
@@ -31,6 +29,8 @@
     <loc>http://localhost:1313/blocks/cta/</loc>
   </url><url>
     <loc>http://localhost:1313/diensten/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/over-mij/</loc>
   </url><url>

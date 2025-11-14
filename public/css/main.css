@@ -2052,14 +2052,16 @@ button:has(.button) {
 }
 
 .region {
-  padding-block: var(--region-space, 6.6vmax);
+  padding-block: var(--region-space, 3.3vmax);
 }
 
 section.title .wrapper,
+section.services .wrapper--small,
 section.services .wrapper--wide {
   text-align: center;
 }
 section.title .wrapper h1,
+section.services .wrapper--small h1,
 section.services .wrapper--wide h1 {
   margin-block-start: var(--space-2xs);
 }

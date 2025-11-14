@@ -10,13 +10,13 @@
 {{ $image := index (findRE `(?s)<p><img.*?p>` $inner 1) 0 }}
 {{ $inner = replace $inner $image "" 1 }}
 
-<section class="text-image region">
+<section class="image region">
     <div class="wrapper switcher ai--center">
         <div class="text">
-            <div>{{ $inner | safeHTML }}</div>
+            {{ $inner | safeHTML }}
         </div>
         <div class="image">
-            <div>{{- $image | safeHTML -}}</div>
+            {{- $image | safeHTML -}}
         </div>
     </div>
 </section>

@@ -2055,12 +2055,12 @@ button:has(.button) {
   padding-block: var(--region-space, 3.3vmax);
 }
 
-section.title .wrapper,
+.image section.title .wrapper,
 section.services .wrapper--small,
 section.services .wrapper--wide {
   text-align: center;
 }
-section.title .wrapper h1,
+.image section.title .wrapper h1,
 section.services .wrapper--small h1,
 section.services .wrapper--wide h1 {
   margin-block-start: var(--space-2xs);
@@ -2212,14 +2212,18 @@ section.service .featuredimage {
   margin-block-start: var(--space-m);
 }
 
-section.about .wrapper p img.colorize_image {
-  display: flex;
+.about h1 {
+  font-size: var(--fs-step-4);
+}
+
+section.about .wrapper p img {
   border-radius: 100%;
   overflow: hidden;
   aspect-ratio: 1;
-  max-width: 25rem;
+  max-width: 20rem;
   object-fit: cover;
   justify-self: center;
+  margin-block: var(--space-s-l);
 }
 
 .contact .box {
@@ -2267,8 +2271,8 @@ ul.buttons.social .button.icon {
   width: 2.25rem;
 }
 ul.buttons.social .button.icon img {
-  width: calc(100% - 1.25em);
-  height: calc(100% - 1.25em);
+  width: calc(100% - 1em);
+  height: calc(100% - 1em);
   filter: invert(1);
 }
 

@@ -6,8 +6,9 @@ meta:
   title: "title in here"
   description: "Korte pagina beschrijving"
 ---
-
 {{< block_about >}}
+
+{{< breadcrumbs >}}
 
 {{< colorize_image "This is not me" "https://images.unsplash.com/photo-1759352675002-958a2cddf291?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
 

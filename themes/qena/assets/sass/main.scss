@@ -30,6 +30,13 @@
 }
 
 
+//
+//
+//
+
+.image
+
+
 // -----------------------------------------------------------------------------
 // Brand
 // -----------------------------------------------------------------------------
@@ -253,14 +260,18 @@ section.service {
 // block_about
 // -----------------------------------------------------------------------------
 
-section.about .wrapper p img.colorize_image {
-    display: flex;
+.about h1 {
+    font-size: var(--fs-step-4);
+}
+
+section.about .wrapper p img {
     border-radius: 100%;
     overflow: hidden;
     aspect-ratio: 1;
-    max-width: 25rem;
+    max-width: 20rem;
     object-fit: cover;
     justify-self: center;
+    margin-block: var(--space-s-l);
 }
 
 
@@ -330,8 +341,8 @@ ul.buttons.social {
         width: 2.25rem;
 
         img {
-            width: calc(100% - 1.25em);
-            height: calc(100% - 1.25em);
+            width: calc(100% - 1em);
+            height: calc(100% - 1em);
             filter: invert(1);
         }
     }

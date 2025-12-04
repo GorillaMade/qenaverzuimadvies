@@ -13,12 +13,7 @@ meta:
 
 Ik help werkgevers en medewerkers stap voor stap. Duidelijke afspraken, praktische plannen en aandacht voor herstel. Maatwerk voor MKB en HR.
 
-{{< button 
-    label="Laten we praten" 
-    link="/contact" 
-    variant="accent" 
-    ghost="false" 
->}}
+{{< button label="Laten we praten" link="/contact" variant="accent" ghost="false" >}}
 
 ![](uploads/krakenimages-376KN_ISplE-unsplash.jpg)
 

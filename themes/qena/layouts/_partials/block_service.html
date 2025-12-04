@@ -1,20 +1,14 @@
 <section class="service region">
-    <div class="wrapper wrapper--wide flow">
+    <div class="wrapper wrapper--small flow">
         {{ partial "breadcrumbs.html" . }}
         <h1 class="text--center">{{ page.Title | safeHTML }}</h1>
         {{ if or page.Params.date (index page.Params.tags 0) }}
         <div class="meta text--center">
-            {{ if page.Params.date }}<div>
-                <img src="/img/icons/material-symbols/200/rounded/calendar_month-fill.svg"class="black_2_textDark" alt="" />
-                {{ page.Date | time.Format ":date_medium"}}
-            </div>
-            {{ end }}
             {{ if index page.Params.tags 0 }}
             <div>
-                <img src="/img/icons/material-symbols/200/rounded/label-fill.svg"class="black_2_textDark" alt="" />
                 <ul class="cluster" role="list">
                     {{ range page.Params.tags }}
-                    <li><a href="/blog/?tag={{ . }}">{{ . }}</a>
+                    <li><span class="tag">{{ . }}</span>
                     {{ end }}
                 </ul>
             </div>

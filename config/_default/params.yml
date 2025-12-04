@@ -12,14 +12,14 @@ keywords:
   - Q en A Verzuimadvies
   - Annemiek
 favicon: "/images/favicon.ico"
-logo: "/uploads/logo.png"
+logo: "/uploads/logo.webp"
 
 
 # -- SEO params --
 seo:
   enable: true
   twitter_card: "summary_large_image"
-  og_image: "/images/og-image.png"
+  og_image: "/uploads/logo.jpg"
 
 # -- Schema --
 schema:

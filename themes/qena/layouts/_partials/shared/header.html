@@ -1,7 +1,10 @@
 <header class="site-header">
     <div class="site-header__inner wrapper">
         <a href="/" class="brand">
+            {{ if site.Params.logo }}
+            <img src="{{ site.Params.logo }}" alt="{{ site.Title }}">
             <span>{{ site.Title }}</span>
+            {{ end }}
         </a>
         <button class="hamburger">
             <span class="bar bar--1"></span>

@@ -47,7 +47,7 @@
   {{- if $bg -}}
   <div class="bgimage region" style="background: url('{{ $bg }}') center center / cover no-repeat;">
       {{ if not $empty }}<div class="overlay"></div>{{ end }}
-      <div class="wrapper wrapper--wide text--center">
+      <div class="wrapper wrapper--small text--center">
           {{ $inner | safeHTML }}
       </div>
   </div>

@@ -19,7 +19,7 @@ Beeklaan 59
 Nederland
 
 hallo@qenaverzuimadvies.nl   
-+31 6 206 704 66
+06 206 704 66
 
 <br>
 {{< socialbuttons >}}

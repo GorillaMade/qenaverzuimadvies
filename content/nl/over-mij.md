@@ -14,15 +14,9 @@ meta:
 
 # Hey, mijn naam is Annemiek
 
-Mijn naam is Annemiek Ooms en ik ben de oprichter van Q en A Verzuimadvies. Ik help bedrijven en medewerkers bij vragen over verzuim en ziekte. Mijn doel is om iedereen snel en veilig weer aan het werk te krijgen.
+Mijn naam is Annemiek Ooms, oprichter van **Q & A Verzuimadvies**. Ik help werkgevers en medewerkers bij vragen over verzuim, herstel en wet- en regelgeving. Met mijn ervaring zorg ik voor duidelijke begeleiding, waarbij zowel de medewerker als de organisatie centraal staat.
 
-Ik heb veel ervaring met wet- en regelgeving rondom verzuim en weet hoe belangrijk goede begeleiding is. Ik luister naar de situatie van zowel werkgever als werknemer en geef duidelijk advies dat past bij de situatie.
-
-Voor mij staat een gezonde werkplek voorop. Door samen te werken met bedrijven en medewerkers, kunnen we verzuim voorkomen en zorgen voor een prettige werkomgeving.
-
-Ik vind het belangrijk dat u altijd weet waar u aan toe bent. Daarom werk ik eerlijk, praktisch en betrokken.
-
-Wilt u weten wat ik voor uw organisatie kan betekenen? Neem gerust [contact](/contact/) met mij op!
+Ik werk eerlijk, praktisch en betrokken, met als doel een gezonde, veilige en prettige werkplek. Wilt u weten wat ik voor uw bedrijf kan betekenen? Neem gerust [contact](/contact/) met mij op.
 
 {{< socialbuttons >}}
 

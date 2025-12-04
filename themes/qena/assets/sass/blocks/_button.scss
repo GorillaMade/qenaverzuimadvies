@@ -112,6 +112,10 @@ button:has(.button) {
 
     background: transparent;
 
+    &:not([data-button-variant]) {
+        --button-foreground: #{$button-background};
+    }
+
     &:hover {
         --button-border-color: var(--_button-background-hover);
         color: var(--_button-foreground-hover);

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verzuim on Q &amp; A verzuimadvies</title>
+    <link>http://localhost:1313/tags/verzuim/</link>
+    <description>Recent content in Verzuim on Q &amp; A verzuimadvies</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <atom:link href="http://localhost:1313/tags/verzuim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verzuimbegeleiding</title>
+      <link>http://localhost:1313/diensten/verzuimbegeleiding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diensten/verzuimbegeleiding/</guid>
+      <description>&lt;p&gt;Bij Q en A Verzuimadvies begeleiden we medewerkers tijdens hun herstelproces op een persoonlijke en betrokken manier.&lt;br&gt;&#xA;We zorgen dat alle stappen van het verzuimtraject zorgvuldig worden gevolgd en dat de communicatie tussen werkgever, werknemer en bedrijfsarts soepel verloopt.&lt;/p&gt;&#xA;&lt;p&gt;We helpen met:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Het opstellen van een duidelijk plan van aanpak voor terugkeer naar werk&lt;/li&gt;&#xA;&lt;li&gt;Regelmatig contact met medewerker en leidinggevende&lt;/li&gt;&#xA;&lt;li&gt;Begeleiding bij elke fase van het herstel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ons doel is om duurzame terugkeer naar werk te bevorderen, met oog voor mens én organisatie.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

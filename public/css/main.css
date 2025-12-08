@@ -2072,6 +2072,10 @@ button:has(.button) {
   padding-block: var(--region-space, 3.3vmax);
 }
 
+.button--loadmore {
+  margin-block-start: var(--space-l);
+}
+
 section.title .wrapper,
 section.title .wrapper--small,
 section.title .wrapper--wide,

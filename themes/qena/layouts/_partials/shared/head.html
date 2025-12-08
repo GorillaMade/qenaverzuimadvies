@@ -26,6 +26,14 @@
 <meta name="twitter:description" content="{{ with .Params.meta.description }}{{ . }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 <meta name="twitter:image" content="{{ with .Params.images }}{{ index . 0 }}{{ else }}{{ .Site.Params.seo.og_image }}{{ end }}">
 
+<!-- FavIcon -->
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="Q&A verzuimadvies" />
+<link rel="manifest" href="/site.webmanifest" />
+
 <!-- JSON-LD Schema: Organization & Article -->
 <script type="application/ld+json">
 {

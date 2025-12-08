@@ -303,7 +303,7 @@ section.service {
 }
 
 section.about .wrapper p img {
-    border-radius: 100%;
+    border-radius: var(--radius-full);
     overflow: hidden;
     aspect-ratio: 1;
     max-width: 20rem;
@@ -416,5 +416,30 @@ ul.buttons.social {
         display: inline-block;
         margin-inline-start: -36px;
         width: 36px;
+    }
+}
+
+
+//
+//
+//
+
+footer {
+
+    .made-by {
+        font-size: var(--fs-step--1);
+        text-align: center;
+
+        a {
+            font-weight: var(--fw-bold);
+            text-decoration: none;
+        }
+    }
+
+    hr {
+        height: 1px;
+        border: none;
+        background: var(--neutral-100);
+        margin-block: var(--space-m);
     }
 }

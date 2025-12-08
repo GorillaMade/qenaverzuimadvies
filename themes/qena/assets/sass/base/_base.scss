@@ -60,6 +60,6 @@ a:not([class]) {
     color: var(--accent-500);
 
     &:is(:hover, :focus-visible) {
-        color: var(--accent-800);
+        color: var(--primary-600);
     }
 }

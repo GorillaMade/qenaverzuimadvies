@@ -1,10 +1,10 @@
 ---
 title: "Home"
-description: ""
+description: "Korte pagina beschrijving"
 
 meta:
-  title: ""
-  description: ""
+  title: "Home"
+  description: "Korte pagina beschrijving"
 ---
 
 {{< block_title >}}

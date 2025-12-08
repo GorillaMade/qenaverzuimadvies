@@ -238,7 +238,7 @@ a:not([class]) {
   color: var(--accent-500);
 }
 a:not([class]):is(:hover, :focus-visible) {
-  color: var(--accent-800);
+  color: var(--primary-600);
 }
 
 .cluster {
@@ -2269,7 +2269,7 @@ section.service .tag {
 }
 
 section.about .wrapper p img {
-  border-radius: 100%;
+  border-radius: var(--radius-full);
   overflow: hidden;
   aspect-ratio: 1;
   max-width: 20rem;
@@ -2352,6 +2352,21 @@ ul.buttons.social .button.icon img {
   display: inline-block;
   margin-inline-start: -36px;
   width: 36px;
+}
+
+footer .made-by {
+  font-size: var(--fs-step--1);
+  text-align: center;
+}
+footer .made-by a {
+  font-weight: var(--fw-bold);
+  text-decoration: none;
+}
+footer hr {
+  height: 1px;
+  border: none;
+  background: var(--neutral-100);
+  margin-block: var(--space-m);
 }
 
 /*# sourceMappingURL=main.css.map */

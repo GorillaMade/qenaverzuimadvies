@@ -3,7 +3,7 @@ title: "Over mij"
 description: "Korte pagina beschrijving"
 
 meta:
-  title: "title in here"
+  title: "Over mij"
   description: "Korte pagina beschrijving"
 ---
 {{< block_about >}}

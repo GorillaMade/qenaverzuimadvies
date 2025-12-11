@@ -12,7 +12,7 @@
     </div>
     {{ end }}
     <div class="wrapper flow">
-        <div class="filter">
+        {{/*  <div class="filter">
             <div class="dropdown-multiselect">
                 <button type="button" class="button" data-button-ghost>{{ i18n "Filter tags" }}</button>
                 <div class="dropdown-content">
@@ -24,7 +24,7 @@
                 {{ end }}
                 </div>
             </div>
-        </div>
+        </div>  */}}
         <ul class="contentitems grid services" data-layout="halves" role="list" data-pagesize="{{ if page.Site.Data.settings.show_all_services }}99{{ else }}{{ page.Site.Data.settings.page_size }}{{ end }}">
             {{ range $index,$service := $services }}
             <li class="item {{ range .Params.tags }} tag_{{ . }}{{ end }}">
@@ -52,7 +52,7 @@
             </li>
             {{ end }}
         </ul>
-        <a class="button button--loadmore" data-button-variant="accent" id="loadmoreposts">{{ i18n "Load more services" }}...</a>
-        <script src="/js/filter.js" defer></script>
+        {{/*  <a class="button button--loadmore" data-button-variant="accent" id="loadmoreposts">{{ i18n "Load more services" }}...</a>
+        <script src="/js/filter.js" defer></script>  */}}
     </div>
 </section>

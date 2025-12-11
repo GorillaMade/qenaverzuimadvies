@@ -10,9 +10,11 @@ title: Contact
 {{< /block_title >}}
 {{< block_contact >}}
 
-Heeft u vragen over verzuim, re-integratie of mijn dienstverlening?
-Ik help u graag verder. U kunt mij bereiken via het contactformulier, per e-mail of telefoon.
-Ik reageer altijd zo snel mogelijk.
+Wil je grip op je verzuim ? Zodat JIJ je meer kunt (blijven) focussen op het ondernemen ? 
+Of wil je gewoon eens sparren over je verzuim of (preventief) advies krijgen over hoe je verzuim het beste kunt aanpakken ?
+
+Bel mij gerust voor een vrijblijvend gesprek of neem contact op via email of whatsapp.
+Ik help en adviseer je graag.
 
 Beeklaan 59  
 5032 AB Tilburg   

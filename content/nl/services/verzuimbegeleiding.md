@@ -6,13 +6,6 @@ tags:
   - begeleiding
 ---
 
-Bij Q en A Verzuimadvies begeleiden we medewerkers tijdens hun herstelproces op een persoonlijke en betrokken manier.  
-We zorgen dat alle stappen van het verzuimtraject zorgvuldig worden gevolgd en dat de communicatie tussen werkgever, werknemer en bedrijfsarts soepel verloopt.
+Je wilt als ondernemer bezig zijn met ondernemen en niet met zieke medewerkers. Niets is zo vervelend als een zieke medewerker, terwijl een opdracht op tijd af moet zijn. Verzuim kost tijd en vereist expertise: wat moet je nu (wettelijk) doen voor deze zieke medewerker.
 
-We helpen met:
-
-- Het opstellen van een duidelijk plan van aanpak voor terugkeer naar werk  
-- Regelmatig contact met medewerker en leidinggevende  
-- Begeleiding bij elke fase van het herstel  
-
-Ons doel is om duurzame terugkeer naar werk te bevorderen, met oog voor mens én organisatie.
+Hierbij ben ik de specialist die kan zorgdragen voor het verkorten van het verzuim door in gesprek te gaan met de zieke medewerker en kan adviseren en kijken naar mogelijkheden om de medewerker weer duurzaam op de werkvloer terug te laten keren.

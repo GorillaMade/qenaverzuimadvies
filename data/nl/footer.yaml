@@ -1,10 +1,10 @@
 socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg 
-  - title: Instagram
-    link: https://instagram.com
-    logo_image: /img/instagram.svg
+  # - title: Facebook
+  #   link: https://facebook.com
+  #   logo_image: /img/facebook.svg 
+  # - title: Instagram
+  #   link: https://instagram.com
+  #   logo_image: /img/instagram.svg
   - title: Linkedin
     link: https://www.linkedin.com/in/annemiek-ooms-7a58081a/
     logo_image: /img/linkedin.svg

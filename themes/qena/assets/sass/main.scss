@@ -58,6 +58,8 @@ section.services .wrapper--wide {
 
 .title .bgimage {
     --region-space: 12.12vmax;
+
+    background-position: top center;
 }
 
 
@@ -310,6 +312,11 @@ section.about .wrapper p img {
     object-fit: cover;
     justify-self: center;
     margin-block: var(--space-s-l);
+}
+
+.text-image .image img {
+    aspect-ratio: 1/1;
+    object-fit: cover;
 }
 
 

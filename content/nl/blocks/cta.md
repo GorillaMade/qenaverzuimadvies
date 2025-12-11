@@ -1,7 +1,7 @@
 ---
 title: cta
 ---
-### Ga vandaag nog aan de slag met Q en A Verzuimadvies
+### Ga vandaag nog aan de slag met QenA Verzuimadvies
 
 Krijg grip op verzuim binnen uw organisatie met persoonlijk en deskundig advies van mij. Samen werken we aan een gezonde en betrokken werkvloer.
 

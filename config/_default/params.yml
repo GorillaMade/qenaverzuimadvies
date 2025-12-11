@@ -1,6 +1,6 @@
 # -- Site specifieke params
-author: "Q en A Verzuimadvies"
-description: "Q en A Verzuimadvies biedt professionele verzuimbegeleiding, re-integratieadvies en verzuimpreventie voor bedrijven. Persoonlijk en doelgericht advies door Annemiek"
+author: "QenA Verzuimadvies"
+description: "QenA Verzuimadvies biedt professionele verzuimbegeleiding, re-integratieadvies en verzuimpreventie voor bedrijven. Persoonlijk en doelgericht advies door Annemiek"
 keywords:
   - verzuimbegeleiding
   - re-integratieadvies
@@ -24,7 +24,7 @@ seo:
 # -- Schema --
 schema:
   type: "Organization"
-  name: "Q en A Verzuimadvies"
+  name: "QenA Verzuimadvies"
   url: "https://qenaverzuimadvies.nl"
   logo: "/uploads/logo.png"
   sameAs:

@@ -9,27 +9,28 @@ meta:
 
 {{< block_title >}}
 
-# Praktisch verzuimadvies persoonlijk en zakelijk
+# Q&A Verzuimadvies: échte aandacht, praktische hulp en geen gedoe.
 
-Ik help werkgevers en medewerkers stap voor stap. Duidelijke afspraken, praktische plannen en aandacht voor herstel. Maatwerk voor MKB en HR.
+Ik ben de betrokken sparringpartner voor MKB-bedrijven tot 80 medewerker. Ik denk mee, doe mee en bewaak de grenzen.
+Wanneer het ingewikkeld wordt, ben ik dichtbij en zorg ik dat zowel werkgever als werknemer er nooit alleen voor staan
 
 {{< button label="Laten we praten" link="/contact" variant="accent" ghost="false" >}}
 
-![](uploads/krakenimages-376KN_ISplE-unsplash.jpg)
+![](uploads/Q&A_11A.webp)
 
 {{< /block_title >}}
 {{< block_services >}}
 
 ## Samen werken aan minder verzuim
 
-Krijg grip op verzuim met deskundige en persoonlijke ondersteuning op elk moment in het traject.
+Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist maar degene die zorgt dat alles én iedereen in beweging blijft; werknemer, leidinggevende, bedrijfsarts en directeur/secretaresse/financieel medewerker, etc. 
 
 {{< /block_services >}}
 {{< block_image reversed="true" background-color="bg-neutral-50" >}}
 
 ## Waarom kiezen voor Q en A Verzuimadvies?
 
-![](https://images.unsplash.com/photo-1538688423619-a81d3f23454b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![](/uploads/Q&A_08A.jpg)
 
 Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u professionele en persoonlijke ondersteuning. Ik bied onder andere:
 

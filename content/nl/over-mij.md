@@ -10,13 +10,21 @@ meta:
 
 {{< breadcrumbs >}}
 
-{{< colorize_image "This is not me" "https://images.unsplash.com/photo-1759352675002-958a2cddf291?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >}}
+{{< colorize_image "Annemiek aan de telefoon" "/uploads/photos/avatars/Q&A_24A.jpg" >}}
 
-# Hey, mijn naam is Annemiek
+# Ik ben Annemiek: specialist in verzuim met oog voor mens én organisatie
 
-Mijn naam is Annemiek Ooms, oprichter van **Q & A Verzuimadvies**. Ik help werkgevers en medewerkers bij vragen over verzuim, herstel en wet- en regelgeving. Met mijn ervaring zorg ik voor duidelijke begeleiding, waarbij zowel de medewerker als de organisatie centraal staat.
+Wat ik zo belangrijk vind in alles, is goede communicatie. Communicatie is essentieel en vooral bij verzuim. Onduidelijkheid, miscommunicatie, vluchtige opmerkingen, maken dat mensen langer in het verzuim (kunnen) blijven hangen. 
 
-Ik werk eerlijk, praktisch en betrokken, met als doel een gezonde, veilige en prettige werkplek. Wilt u weten wat ik voor uw bedrijf kan betekenen? Neem gerust [contact](/contact/) met mij op.
+Ik ben Annemiek en heb jarenlang ervaring in verzuim, waarbij ik merkte dat MKB -bedrijven weinig tot geen tijd voor verzuim nemen. MKB bedrijven willen meer dan het verslag van de bedrijfsarts met een advies voor het re-integratietraject. Zodoende ben ik in 2024 gestart met Q&A Verzuimadvies, zodat MKB bedrijven kunnen (blijven) ondernemen, terwijl ik het verzuim met mijn vakkundigheid en oog voor detail oppak.  
+
+Goede communicatie – Deskundigheid – Eerlijkheid - Gedrevenheid: Ik pak het verzuim aan binnen een MKB bedrijf in samenspraak met werkgever, maar ook werknemer. 
+Niet alles kan worden opgelost, maar gedrevenheid telt voor het beste resultaat! 
+Blijf in contact!
+
+Wil je een eerlijk advies: duidelijke verwachtingsmanagement vooraf, persoonlijke aanpak en betrokken communicatie, heldere terugkoppelingen en documentatie ?
+
+Neem gerust [contact](/contact/) met mij op om verder te praten. 
 
 {{< socialbuttons >}}
 

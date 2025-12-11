@@ -1,7 +1,7 @@
 {{- $src := .Get 1 -}}
 {{- $alt := .Get 0 | default "" -}}
 
-{{- if strings.HasPrefix $src "http" -}}
+{{- if or (strings.HasPrefix $src "http") (strings.HasPrefix $src "/") -}}
     <p><img src="{{ $src }}" alt="{{ $alt }}" class="colorize_image" /></p>
 {{- else -}}
     {{- $res := resources.GetMatch $src -}}

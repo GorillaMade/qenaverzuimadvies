@@ -367,7 +367,7 @@ collections:
     files:
       - name: "reviews"
         label: "Reviews (NL)"
-        file: "data/nl/reviews.yml"
+        file: "data/nl/reviews.yaml"
         format: "yaml"
         fields:
           - label: "Reviews"
@@ -404,7 +404,7 @@ collections:
     files:
       - name: "faqs"
         label: "FAQ pagina"
-        file: "data/nl/faqs.yml"
+        file: "data/nl/faqs.yaml"
         format: "yaml"
         fields:
           - label: "FAQ categorieën"

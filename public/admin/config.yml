@@ -43,6 +43,8 @@ collections:
         label: "Algemene Hugo config"
         file: "config/_default/config.yml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "Base URL"
             name: "baseURL"
@@ -67,6 +69,8 @@ collections:
         label: "Talen instellingen"
         file: "config/_default/languages.yml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "Nederlands"
             name: "nl"
@@ -120,6 +124,8 @@ collections:
         label: "Menu instellingen"
         file: "config/_default/menu.yml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "Menu items"
             name: "main"
@@ -140,6 +146,8 @@ collections:
         label: "Algemene parameters"
         file: "config/_default/params.yml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "Auteur"
             name: "author"

@@ -369,6 +369,8 @@ collections:
         label: "Reviews (NL)"
         file: "data/nl/reviews.yaml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "Reviews"
             name: "reviews"
@@ -406,6 +408,8 @@ collections:
         label: "FAQ pagina"
         file: "data/nl/faqs.yaml"
         format: "yaml"
+        editor:
+          preview: false
         fields:
           - label: "FAQ categorieën"
             name: "faqs"

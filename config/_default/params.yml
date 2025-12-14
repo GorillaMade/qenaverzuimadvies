@@ -10,7 +10,6 @@ keywords:
   - verzuimcoach
   - mkb verzuim
   - Q en A Verzuimadvies
-  - Annemiek
 favicon: "/images/favicon.ico"
 logo: "/uploads/logo.webp"
 
@@ -19,21 +18,19 @@ logo: "/uploads/logo.webp"
 seo:
   enable: true
   twitter_card: "summary_large_image"
-  og_image: "/uploads/logo.jpg"
+  og_image: "/uploads/og-logo.jpg"
 
 # -- Schema --
 schema:
   type: "Organization"
   name: "QenA Verzuimadvies"
   url: "https://qenaverzuimadvies.nl"
-  logo: "/uploads/logo.png"
+  logo: "/uploads/og-logo.jpg"
   sameAs:
-    - "https://www.linkedin.com/company/voorbeeldbedrijf"
-    - "https://twitter.com/voorbeeldbedrijf"
+    - "https://www.linkedin.com/in/annemiek-ooms-7a58081a/"
 
 # -- Socials --
-social:
-  - name: "twitter"
-    url: "https://twitter.com/jouwaccount"
-  - name: "facebook"
-    url: "https://facebook.com/jouwaccount"
+socials:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/annemiek-ooms-7a58081a/"
+    logo_image: /img/linkedin.svg

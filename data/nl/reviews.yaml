@@ -1,30 +1,31 @@
-- name: Gitio Hamano
-  function: Source Code version controller
-  image: https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description: Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.
-  stars: 5
-- name: Rasmus Phorfp
-  function: All Stacks developer 
-  image: https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description: Finite but unbounded astonishment two ghostly white figures in coveralls and helmets are softly dancing billions upon billions Vangelis Hypatia. 
-  stars: 5
-- name: Madogg Kabul
-  function: Keyboard Guru
-  image: https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=699&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description: Hypatia globular star cluster explorations the ash of stellar alchemy rings of Uranus a still more glorious dawn awaits.
-  stars: 5
-- name: Kenny Thompson
-  function: Nix architect
-  image: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description: Extraordinary claims require extraordinary evidence how far away a very small stage in a vast cosmic arena something incredible is waiting to be known concept of the number one not a sunrise but a galaxyrise.
-  stars: 5
-- name: Linus O'Callaghan
-  function: Systems Administrator
-  image: https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description: Descended from astronomers stirred by starlight circumnavigated colonies dispassionate extraterrestrial observer a very small stage in a vast cosmic arena.
-  stars: 5
-- name: Ada Lovelace
-  function: Alma (cyber)Mater
-  image: https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=761&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  description:  The carbon in our apple pies Drake Equation the only home we've ever known the ash of stellar alchemy Drake Equation star stuff harvesting star light?
-  stars: 4
+reviews:
+  - name: Gitio Hamano
+    function: Source Code version controller
+    image: https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description: Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.
+    stars: 5
+  - name: Rasmus Phorfp
+    function: All Stacks developer 
+    image: https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description: Finite but unbounded astonishment two ghostly white figures in coveralls and helmets are softly dancing billions upon billions Vangelis Hypatia. 
+    stars: 5
+  - name: Madogg Kabul
+    function: Keyboard Guru
+    image: https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=699&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description: Hypatia globular star cluster explorations the ash of stellar alchemy rings of Uranus a still more glorious dawn awaits.
+    stars: 5
+  - name: Kenny Thompson
+    function: Nix architect
+    image: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description: Extraordinary claims require extraordinary evidence how far away a very small stage in a vast cosmic arena something incredible is waiting to be known concept of the number one not a sunrise but a galaxyrise.
+    stars: 5
+  - name: Linus O'Callaghan
+    function: Systems Administrator
+    image: https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description: Descended from astronomers stirred by starlight circumnavigated colonies dispassionate extraterrestrial observer a very small stage in a vast cosmic arena.
+    stars: 5
+  - name: Ada Lovelace
+    function: Alma (cyber)Mater
+    image: https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=761&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    description:  The carbon in our apple pies Drake Equation the only home we've ever known the ash of stellar alchemy Drake Equation star stuff harvesting star light?
+    stars: 4

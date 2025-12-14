@@ -4,27 +4,13 @@
   <url>
     <loc>http://localhost:1313/blocks/reviews/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/administratie/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/advies/</loc>
-  </url><url>
-    <loc>http://localhost:1313/diensten/advies-over-wet-en-regelgeving/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/arbodienst/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/bedrijfsarts/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/begeleiding/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/beleid/</loc>
   </url><url>
     <loc>http://localhost:1313/blocks/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/diensten/contact-met-arbodiensten-en-bedrijfsarts/</loc>
   </url><url>
     <loc>http://localhost:1313/blocks/cta/</loc>
   </url><url>
@@ -35,14 +21,6 @@
     <loc>http://localhost:1313/over-mij/</loc>
   </url><url>
     <loc>http://localhost:1313/404/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/preventie/</loc>
-  </url><url>
-    <loc>http://localhost:1313/diensten/preventie-en-verzuimbeleid/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/rapportage/</loc>
-  </url><url>
-    <loc>http://localhost:1313/diensten/rapportage-en-administratie/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/re-integratie/</loc>
   </url><url>
@@ -57,7 +35,5 @@
     <loc>http://localhost:1313/tags/verzuim/</loc>
   </url><url>
     <loc>http://localhost:1313/diensten/verzuimbegeleiding/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/wetgeving/</loc>
   </url>
 </urlset>

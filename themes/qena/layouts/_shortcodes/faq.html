@@ -6,7 +6,7 @@
 		</details>
 	{{- end -}}
 {{- else -}}
-	{{- range (index page.Site.Data page.Site.Language.Lang).faqs -}}
+	{{- range (index page.Site.Data page.Site.Language.Lang).faqs.faqs -}}
 		{{- if .title -}}
 			<h3 class="mb-s-l">{{- .title -}}</h3>
 			<div class="faqs">

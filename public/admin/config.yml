@@ -217,7 +217,7 @@ collections:
                 name: "title"
                 widget: "string"
               - label: "URL"
-                name: "url"
+                name: "link"
                 widget: "string"
               - label: "Logo"
                 name: "logo_image"

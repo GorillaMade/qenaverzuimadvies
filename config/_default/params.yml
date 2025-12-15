@@ -32,5 +32,5 @@ schema:
 # -- Socials --
 socials:
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/annemiek-ooms-7a58081a/"
+    link: "https://www.linkedin.com/in/annemiek-ooms-7a58081a/"
     logo_image: /img/linkedin.svg

@@ -1,5 +1,5 @@
 ---
-title: Verzuimbegeleiding
+title: Verzuim en re-integratie
 image: /uploads/undraw_meeting_dunc.svg
 tags:
   - verzuim
@@ -10,7 +10,7 @@ Je wilt als ondernemer bezig zijn met ondernemen en niet met zieke medewerkers. 
 
 Hierbij ben ik de specialist die kan zorgdragen voor het verkorten van het verzuim door in gesprek te gaan met de zieke medewerker en kan adviseren en kijken naar mogelijkheden om de medewerker weer duurzaam op de werkvloer terug te laten keren.
 
-## Re-intergratie
+## Re-integratie
 
 
 Bij re-integratie kijken we altijd naar de mogelijkheden: wat kan iemand nog wel en welke stappen zijn daarbij nodig. Daarbij is het advies van de bedrijfsarts essentieel.

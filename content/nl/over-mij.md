@@ -10,7 +10,7 @@ meta:
 
 {{< breadcrumbs >}}
 
-{{< colorize_image "Annemiek aan de telefoon" "/uploads/Q&A_24A.jpg" >}}
+{{< colorize_image "Annemiek aan de telefoon" "/uploads/Q&A_24A.webp" >}}
 
 # Ik ben Annemiek: specialist in verzuim met oog voor mens én organisatie
 

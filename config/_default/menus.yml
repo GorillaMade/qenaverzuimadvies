@@ -3,7 +3,7 @@ main:
     pageRef: /over-mij
     weight: 20
   - name: Expertise
-    pageRef: /diensten
+    pageRef: /expertise
     weight: 30
   - name: F.A.Q.
     pageRef: /faq

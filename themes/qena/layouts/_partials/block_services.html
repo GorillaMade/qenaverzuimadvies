@@ -4,7 +4,7 @@
 {{- $inner = .RawContent -}}
 {{- end -}}
 {{- end -}}
-{{- $services := where page.Site.RegularPages "Section" "services" -}}
+{{- $services := sort (where page.Site.RegularPages "Section" "services") "Params.weight" "asc" -}}
 <section class="services region">
     {{ if $inner }}
     <div class="wrapper wrapper--small">

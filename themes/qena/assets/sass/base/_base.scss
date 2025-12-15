@@ -22,13 +22,14 @@ h4, h5, h6 {
     font-weight: var(--fw-bold);
     line-height: 1.2;
     color: inherit;
-    &:is(:first-of-type) {
-        margin-block-start: 0;
-    }
+    
 }
 
 h1, .h1 {
     font-size: var(--fs-step-5);
+    &:is(:first-of-type) {
+        margin-block-start: 0;
+    }
 }
 
 h2, .h2 {

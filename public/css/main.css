@@ -205,13 +205,12 @@ h4, h5, h6 {
   line-height: 1.2;
   color: inherit;
 }
-h1:is(:first-of-type), h2:is(:first-of-type), h3:is(:first-of-type),
-h4:is(:first-of-type), h5:is(:first-of-type), h6:is(:first-of-type) {
-  margin-block-start: 0;
-}
 
 h1, .h1 {
   font-size: var(--fs-step-5);
+}
+h1:is(:first-of-type), .h1:is(:first-of-type) {
+  margin-block-start: 0;
 }
 
 h2, .h2 {
@@ -2091,11 +2090,6 @@ section.services .wrapper--wide h1 {
   margin-block-start: var(--space-2xs);
 }
 
-.title .bgimage {
-  --region-space: 12.12vmax;
-  background-position: top center;
-}
-
 .brand {
   font-size: var(--fs-step-0);
   color: var(--primary-500);
@@ -2111,10 +2105,12 @@ section.services .wrapper--wide h1 {
   width: auto;
 }
 
-section.bgimage {
+section.hero {
+  --region-space: 14vmax;
   position: relative;
+  background-position: top center;
 }
-section.bgimage .overlay {
+section.hero .overlay {
   position: absolute;
   left: 0;
   top: 0;
@@ -2123,14 +2119,24 @@ section.bgimage .overlay {
   z-index: 1;
   background: rgba(0, 0, 0, 0.55);
 }
-section.bgimage .wrapper {
+section.hero .wrapper.wrapper--wide {
   position: relative;
   z-index: 2;
   color: var(--neutral-0);
 }
+section.hero .wrapper.wrapper--wide h1 {
+  max-width: 84rem;
+}
+section.hero .wrapper.wrapper--wide > p {
+  max-width: 50rem;
+  margin-inline: auto;
+}
 
 section.services .wrapper h1 {
   text-align: center;
+}
+section.services .wrapper h1:is(:first-of-type) {
+  margin-block-start: 0;
 }
 section.services .wrapper + .wrapper {
   margin-block-start: var(--space-xl-2xl);
@@ -2373,6 +2379,10 @@ footer hr {
   border: none;
   background: var(--neutral-100);
   margin-block: var(--space-m);
+}
+
+section:not(.service) h1:is(:first-of-type), section:not(.service) h2:is(:first-of-type), section:not(.service) h3:is(:first-of-type) {
+  margin-block-start: 0;
 }
 
 /*# sourceMappingURL=main.css.map */

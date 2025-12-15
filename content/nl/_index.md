@@ -7,7 +7,7 @@ meta:
   description: "Korte pagina beschrijving"
 ---
 
-{{< block_title >}}
+{{< block_hero >}}
 
 # Q&A Verzuimadvies: échte aandacht, praktische hulp en geen gedoe.
 
@@ -18,7 +18,7 @@ Wanneer het ingewikkeld wordt, ben ik dichtbij en zorg ik dat zowel werkgever al
 
 ![](uploads/Q&A_11A.webp)
 
-{{< /block_title >}}
+{{< /block_hero >}}
 {{< block_services >}}
 
 ## Samen werken aan minder verzuim

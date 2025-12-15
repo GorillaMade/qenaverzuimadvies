@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verzuim on Q&amp;A verzuimadvies</title>
-    <link>http://localhost:1313/tags/verzuim/</link>
-    <description>Recent content in Verzuim on Q&amp;A verzuimadvies</description>
+    <title>Mkb on Q&amp;A verzuimadvies</title>
+    <link>http://localhost:1313/tags/mkb/</link>
+    <description>Recent content in Mkb on Q&amp;A verzuimadvies</description>
     <generator>Hugo</generator>
     <language>nl</language>
-    <atom:link href="http://localhost:1313/tags/verzuim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mkb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verzuimbegeleiding &amp; Re-integratie</title>
       <link>http://localhost:1313/expertise/verzuimbegeleiding-re-integratie/</link>

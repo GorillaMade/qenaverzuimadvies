@@ -7,8 +7,6 @@ nl:
     flag:
   permalinks:
     page:
-      posts: /blog/:slug
-      services: /diensten/:slug
+      services: /expertise/:slug
     section:
-      posts: /blog/
-      services: /diensten/
+      services: /expertise/

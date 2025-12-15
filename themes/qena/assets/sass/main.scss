@@ -393,11 +393,20 @@ textarea {
 //
 //
 
-.about p:has(img) {
-    text-align: center;
+section.about {
 
-    img {
-        aspect-ratio: 1;
+    h1 {
+        text-align: center;
+    }
+
+    p:has(img) {
+        display: flex;
+        justify-self: center;
+
+        img {
+            display: inline-flex;
+            aspect-ratio: 1;
+        }
     }
 }
 

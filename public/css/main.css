@@ -2335,10 +2335,15 @@ textarea {
   box-shadow: var(--shadow-xs);
 }
 
-.about p:has(img) {
+section.about h1 {
   text-align: center;
 }
-.about p:has(img) img {
+section.about p:has(img) {
+  display: flex;
+  justify-self: center;
+}
+section.about p:has(img) img {
+  display: inline-flex;
   aspect-ratio: 1;
 }
 

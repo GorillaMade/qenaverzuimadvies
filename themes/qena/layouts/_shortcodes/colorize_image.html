@@ -6,7 +6,7 @@
 {{- else -}}
     {{- $res := resources.GetMatch $src -}}
     {{- if $res -}}
-        {{- $res = $res.Fit "1600x1600 jpg Smart q50" -}}
+        {{- $res = $res.Fit "1333x1333 jpg Smart q50" -}}
         <p><img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" class="colorize_image" /></p>
     {{- else -}}
         <p>Image not found: {{ $src }}</p>

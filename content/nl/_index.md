@@ -1,10 +1,10 @@
 ---
 title: "Home"
-description: "Korte pagina beschrijving"
+description: "Persoonlijke verzuimbegeleiding en re-integratieadvies voor MKB-bedrijven. QenA Verzuimadvies biedt deskundige ondersteuning bij verzuim, re-integratie en conflictbemiddeling"
 
 meta:
-  title: "Home"
-  description: "Korte pagina beschrijving"
+  title: "QenA Verzuimadvies | Verzuimbegeleiding & Re-integratie voor MKB"
+  description: "Grip op verzuim zonder gedoe. QenA Verzuimadvies ondersteunt MKB-ondernemers met persoonlijke verzuimbegeleiding, re-integratie en mediation."
 ---
 
 {{< block_hero >}}

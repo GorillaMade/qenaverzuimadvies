@@ -1,15 +1,12 @@
 # -- Site specifieke params
 author: "QenA Verzuimadvies"
-description: "QenA Verzuimadvies biedt professionele verzuimbegeleiding, re-integratieadvies en verzuimpreventie voor bedrijven. Persoonlijk en doelgericht advies door Annemiek"
+description: "Persoonlijke verzuimbegeleiding en re-integratieadvies voor MKB-bedrijven. QenA Verzuimadvies biedt deskundige ondersteuning bij verzuim, re-integratie en conflictbemiddeling"
 keywords:
   - verzuimbegeleiding
   - re-integratieadvies
-  - verzuimpreventie
   - verzuimadvies
-  - verzuimbeleid
-  - verzuimcoach
-  - mkb verzuim
-  - Q en A Verzuimadvies
+  - verzuimbegeleiding MKB
+  - re-integratie MKB
 favicon: "/images/favicon.ico"
 logo: "/uploads/logo.webp"
 

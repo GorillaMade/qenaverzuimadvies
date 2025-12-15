@@ -2335,6 +2335,13 @@ textarea {
   box-shadow: var(--shadow-xs);
 }
 
+.about p:has(img) {
+  text-align: center;
+}
+.about p:has(img) img {
+  aspect-ratio: 1;
+}
+
 .about ul.buttons.social {
   max-width: fit-content;
   margin-block-start: var(--space-m);

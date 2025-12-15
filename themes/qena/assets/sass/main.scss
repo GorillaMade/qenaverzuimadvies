@@ -393,6 +393,14 @@ textarea {
 //
 //
 
+.about p:has(img) {
+    text-align: center;
+
+    img {
+        aspect-ratio: 1;
+    }
+}
+
 .about ul.buttons.social {
     max-width: fit-content;
     margin-block-start: var(--space-m);
@@ -443,9 +451,9 @@ ul.buttons.social {
     }
 }
 
-///
-/// 
-/// 
+//
+// Contact pagina
+//
 .contact {
 
     ul {

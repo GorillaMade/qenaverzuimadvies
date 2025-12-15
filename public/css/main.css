@@ -209,9 +209,6 @@ h4, h5, h6 {
 h1, .h1 {
   font-size: var(--fs-step-5);
 }
-h1:is(:first-of-type), .h1:is(:first-of-type) {
-  margin-block-start: 0;
-}
 
 h2, .h2 {
   font-size: var(--fs-step-4);
@@ -235,6 +232,7 @@ h6, .h6 {
 
 a:not([class]) {
   color: var(--accent-500);
+  text-decoration: none;
 }
 a:not([class]):is(:hover, :focus-visible) {
   color: var(--primary-600);
@@ -2385,7 +2383,10 @@ ul.buttons.social .button.icon img {
   padding: 0;
 }
 .contact ul li {
+  display: flex;
+  align-items: center;
   padding-block-start: var(--space-xs);
+  gap: var(--space-2xs);
 }
 .contact p {
   margin-block: 0 var(--space-m);

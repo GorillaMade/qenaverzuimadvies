@@ -23,6 +23,7 @@ Ik help en adviseer je graag.
 
 - <ion-icon name="mail-outline"></ion-icon> annemiek@qenaverzuimadvies.nl   
 - <ion-icon name="call-outline"></ion-icon> 06 206 704 66   
+- <ion-icon name="document-outline"></ion-icon> [Algemene voorwaarden](/uploads/Algemene_Voorwaarden_QA_Verzuimadvies.pdf)
 
 {{< socialbuttons >}}
 

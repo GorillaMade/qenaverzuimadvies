@@ -2279,7 +2279,7 @@ section.service .tag {
   margin-block-start: var(--space-m);
 }
 
-.about h1 {
+section.about h1 {
   font-size: var(--fs-step-4);
 }
 
@@ -2291,6 +2291,8 @@ section.about .wrapper p img {
   object-fit: cover;
   justify-self: center;
   margin-block: var(--space-s-l);
+  display: block;
+  margin-inline: auto;
 }
 
 .text-image .image img {
@@ -2337,14 +2339,6 @@ textarea {
 
 section.about h1 {
   text-align: center;
-}
-section.about p:has(img) {
-  display: flex;
-  justify-self: center;
-}
-section.about p:has(img) img {
-  display: inline-flex;
-  aspect-ratio: 1;
 }
 
 .about ul.buttons.social {

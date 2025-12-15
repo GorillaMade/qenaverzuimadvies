@@ -34,3 +34,6 @@ socials:
   - title: "linkedin"
     link: "https://www.linkedin.com/in/annemiek-ooms-7a58081a/"
     logo_image: /img/linkedin.svg
+  - title: "whatsapp"
+    link: "https://wa.me/0620670466"
+    logo_image: /img/whatsapp.svg

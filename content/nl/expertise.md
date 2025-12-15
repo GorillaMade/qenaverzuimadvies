@@ -1,5 +1,10 @@
 ---
-title: "Diensten"
+title: "Expertise"
+description: "Wat ik voor uw organisatie kan betekenen"
+
+meta:
+  title: "Expertise"
+  description: "Wat ik voor uw organisatie kan betekenen"
 ---
 {{< block_services >}}
 

@@ -15,7 +15,7 @@ fields:
   required: true
 - name: email
   input_type: email
-  label: Email address
+  label: E-mailadres
   required: true
 - name: message
   input_type: textarea

@@ -26,7 +26,7 @@ Wanneer het ingewikkeld wordt, ben ik dichtbij en zorg ik dat zowel werkgever al
 Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist maar degene die zorgt dat alles én iedereen in beweging blijft; werknemer, leidinggevende, bedrijfsarts en directeur/secretaresse/financieel medewerker, etc. 
 
 {{< /block_services >}}
-{{< block_image reversed="true" background-color="bg-neutral-50" >}}
+{{< block_image reversed="true" background-color="bg-primary-50" >}}
 
 ## Waarom kiezen voor Q en A Verzuimadvies?
 

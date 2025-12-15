@@ -56,6 +56,10 @@ section.services .wrapper--wide {
     }
 }
 
+section.title.bgimage {
+    --region-space: var(--space-xl-3xl);
+}
+
 
 // -----------------------------------------------------------------------------
 // Brand
@@ -82,10 +86,9 @@ section.services .wrapper--wide {
 // Block_title
 // -----------------------------------------------------------------------------
 
-section.hero {
-    --region-space: 14vmax;
+section.hero.bgimage,
+section.title.bgimage {
     position: relative;
-    background-position: top center;
 
     .overlay {
         position: absolute;
@@ -97,18 +100,24 @@ section.hero {
         background: rgba(0, 0, 0, .55);
     }
 
-    .wrapper.wrapper--wide {
+
+    .wrapper {
         position: relative;
         z-index: 2;
         color: var(--neutral-0);
+    }
+}
+
+section.hero.bgimage {
+    --region-space: 10.10vmax;
+    position: relative;
+    background-position: top center;
+
+    .wrapper {
 
         h1 {
+            padding-block-start: var(--space-s-l);
             max-width: 84rem;
-        }
-
-        & > p {
-            max-width: 50rem;
-            margin-inline: auto;
         }
     }
 }
@@ -431,6 +440,34 @@ ul.buttons.social {
         display: inline-block;
         margin-inline-start: -36px;
         width: 36px;
+    }
+}
+
+///
+/// 
+/// 
+.contact {
+
+    ul {
+        list-style: none;
+        padding: 0;
+
+        li {
+            padding-block-start: var(--space-xs); 
+        }
+    }
+
+    p {
+    margin-block: 0 var(--space-m);
+
+        img  {
+            aspect-ratio: 16/12;
+            object-fit: cover;
+            max-width: 100%;
+            max-height: 30rem;
+            margin-inline: auto;
+            border-radius: var(--radius-m);
+        }
     }
 }
 

@@ -2090,6 +2090,10 @@ section.services .wrapper--wide h1 {
   margin-block-start: var(--space-2xs);
 }
 
+section.title.bgimage {
+  --region-space: var(--space-xl-3xl);
+}
+
 .brand {
   font-size: var(--fs-step-0);
   color: var(--primary-500);
@@ -2105,12 +2109,12 @@ section.services .wrapper--wide h1 {
   width: auto;
 }
 
-section.hero {
-  --region-space: 14vmax;
+section.hero.bgimage,
+section.title.bgimage {
   position: relative;
-  background-position: top center;
 }
-section.hero .overlay {
+section.hero.bgimage .overlay,
+section.title.bgimage .overlay {
   position: absolute;
   left: 0;
   top: 0;
@@ -2119,17 +2123,21 @@ section.hero .overlay {
   z-index: 1;
   background: rgba(0, 0, 0, 0.55);
 }
-section.hero .wrapper.wrapper--wide {
+section.hero.bgimage .wrapper,
+section.title.bgimage .wrapper {
   position: relative;
   z-index: 2;
   color: var(--neutral-0);
 }
-section.hero .wrapper.wrapper--wide h1 {
-  max-width: 84rem;
+
+section.hero.bgimage {
+  --region-space: 10.10vmax;
+  position: relative;
+  background-position: top center;
 }
-section.hero .wrapper.wrapper--wide > p {
-  max-width: 50rem;
-  margin-inline: auto;
+section.hero.bgimage .wrapper h1 {
+  padding-block-start: var(--space-s-l);
+  max-width: 84rem;
 }
 
 section.services .wrapper h1 {
@@ -2364,6 +2372,25 @@ ul.buttons.social .button.icon img {
   display: inline-block;
   margin-inline-start: -36px;
   width: 36px;
+}
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+}
+.contact ul li {
+  padding-block-start: var(--space-xs);
+}
+.contact p {
+  margin-block: 0 var(--space-m);
+}
+.contact p img {
+  aspect-ratio: 16/12;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 30rem;
+  margin-inline: auto;
+  border-radius: var(--radius-m);
 }
 
 footer .made-by {

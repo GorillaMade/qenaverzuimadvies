@@ -126,7 +126,7 @@ collections:
 
       - name: "menu"
         label: "Menu instellingen"
-        file: "config/_default/menu.yml"
+        file: "config/_default/menus.yml"
         format: "yaml"
         editor:
           preview: false

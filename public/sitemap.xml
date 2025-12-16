@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/expertise/mediation-voor-het-mkb/</loc>
   </url><url>
+    <loc>http://localhost:1313/blocks/cta/</loc>
+  </url><url>
     <loc>http://localhost:1313/blocks/reviews/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/arbeidsconflict/</loc>
@@ -17,8 +19,6 @@
     <loc>http://localhost:1313/tags/communicatie/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blocks/cta/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/duurzame-inzetbaarheid/</loc>
   </url><url>

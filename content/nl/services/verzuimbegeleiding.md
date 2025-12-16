@@ -1,6 +1,6 @@
 ---
 title: Verzuimbegeleiding & Re-integratie
-image: /uploads/undraw_meeting_dunc.svg
+image: /uploads/Schermafbeelding 2025-12-16 173036.png
 tags:
   - verzuim
   - re-integratie

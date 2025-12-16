@@ -9,14 +9,22 @@
 {{- $image := index (findRE `(?s)<p><img.*?p>` $inner 1) 0 -}}
 {{- $inner = replace $inner $image "" 1 -}}
 <section class="cta region">
-    <div class="wrapper">
-        <div class="switcher box">
-            <div class="text flow">
-                <div>{{- $inner | safeHTML -}}</div>
-            </div>
-            <div class="image">
-                <div>{{- $image | safeHTML -}}</div>
+        {{ if $image }}
+        <div class="wrapper">
+            <div class="switcher box">
+                <div class="text flow">
+                    <div>{{- $inner | safeHTML -}}</div>
+                </div>
+                <div class="image">
+                    <div>{{- $image | safeHTML -}}</div>
+                </div>
             </div>
         </div>
-    </div>
+        {{ else }}
+            <div class="wrapper wrapper--wide">
+                <div class="box flow text--center">
+                    <div>{{- $inner | safeHTML -}}</div>
+                </div>
+            </div>
+        {{ end }}
 </section>

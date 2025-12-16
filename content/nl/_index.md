@@ -28,34 +28,34 @@ Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist 
 {{< /block_services >}}
 {{< block_image reversed="true" background-color="bg-primary-50" >}}
 
-## Waarom kiezen voor Q en A Verzuimadvies?
+## Waarom kiezen voor Q&A Verzuimadvies?
 
 ![](/uploads/Q&A_08A.webp)
 
 Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u professionele en persoonlijke ondersteuning. Ik bied onder andere:
 
-- **Persoonlijk advies**  
-- **Ervaren en deskundig**  
-- **Praktische oplossingen**  
-- **Samenwerking met werkgever en werknemer**  
-- **Duidelijk en betrouwbaar**
+- **Persoonlijke aanpak**
+- **Heldere communicatie**
+- **No-nonsense advies**
+- **Expertise vanuit zowel werkgevers- als werknemersperspectief**
+- **Ondersteuning bij lastige gesprekken**
 
 {{< /block_image >}}
 {{< block_faq title="Veel gestelde vragen" >}}
 
-  ## Wat doet Q en A Verzuimadvies precies?
+  ## Wat doet Q&A Verzuimadvies precies?
 
   Wij helpen bedrijven en medewerkers bij verzuim en ziekte. We geven advies over wet- en regelgeving, re-integratie en preventie.
   ---
 
   ## Hoe verloopt het adviestraject?
 
-  We beginnen met een intakegesprek om de situatie te begrijpen. Daarna geven we advies op maat en ondersteunen we bij de uitvoering.
+  We beginnen met een intakegesprek om de situatie te begrijpen en maken indien noodzakelijk een dossieranalyse. Daarna geven we advies op maat en ondersteunen we bij de uitvoering.
 
   ---
-  ## Wat kost het om Q en A Verzuimadvies in te schakelen?
+  ## Wat kost het om Q&A Verzuimadvies in te schakelen?
 
-  De kosten zijn afhankelijk van de grootte van het bedrijf en de ondersteuning die nodig is. Neem contact met ons op voor een offerte op maat.
+  Tijd om een kennismakingsgesprek te hebben en te kijken welke ondersteuning nodig is. Neem [contact](/contact/) met ons op voor verdere informatie.
 
 {{< /block_faq >}}
 {{< block_reviews >}}{{< /block_reviews >}}

@@ -1,3 +1,3 @@
-## Wat klanten zeggen over QenA Verzuimadvies
+## Wat klanten zeggen over Q&A Verzuimadvies
 
-Deze ervaringen laten zien hoe klanten de samenwerking met QenA Verzuimadvies hebben ervaren.
+Deze ervaringen laten zien hoe klanten de samenwerking met Q&A Verzuimadvies hebben ervaren.

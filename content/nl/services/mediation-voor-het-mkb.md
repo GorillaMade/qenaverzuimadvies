@@ -1,6 +1,6 @@
 ---
 title: Mediation voor het MKB
-image: /uploads/undraw_work-time_zbsw.svg
+image: /uploads/istockphoto-1388269710-612x612 touwhand.jpg
 tags:
   - mediation
   - arbeidsconflict

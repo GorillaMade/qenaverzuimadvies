@@ -30,7 +30,7 @@ Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist 
 
 ## Waarom kiezen voor Q&A Verzuimadvies?
 
-![](/uploads/Q&A_08A.webp)
+![annemiek aan het werk](/uploads/Q&A_08A.webp)
 
 Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u professionele en persoonlijke ondersteuning. Ik bied onder andere:
 

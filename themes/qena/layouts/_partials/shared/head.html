@@ -34,9 +34,6 @@
 <meta name="apple-mobile-web-app-title" content="Q&A verzuimadvies" />
 <link rel="manifest" href="/favicon/site.webmanifest" />
 
-<link rel="preload" href="/fonts/Raleway-Variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/Nunito-Variable.woff2" as="font" type="font/woff2" crossorigin>
-
 <!-- JSON-LD Schema: Organization & Article -->
 <script type="application/ld+json">
 {
@@ -119,8 +116,10 @@
 {{ end }}
 {{ end }}
 
+<link rel="preload" href="/fonts/Raleway-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/Nunito-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin>
+
 <!-- CSS & JS -->
 {{- partialCached "head/css.html" . -}}
 {{- partialCached "head/js.html" . -}}
-
 <script src="/js/htmx.min.js" defer></script>

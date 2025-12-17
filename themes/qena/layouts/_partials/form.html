@@ -1,8 +1,7 @@
-<img src="/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
 <form id="contactform" class="form flow" 
       method="POST" 
-      action="{{ .action }}"
-      hx-post="{{ .action }}"
+      action="/form.php"
+      hx-post="/form.php"
       hx-target="#form-container"
       hx-swap="outerHTML">
     {{- range .fields -}}

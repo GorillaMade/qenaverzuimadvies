@@ -40,7 +40,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "{{ .Site.Title }}",
-  "url": "{{ .Site.BaseURL }}",
+  "url": "{{ site.BaseURL }}",
   "logo": "{{ .Site.Params.schema.logo }}",
   "sameAs": {{ jsonify .Site.Params.schema.sameAs }}
 }
@@ -80,7 +80,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "{{ .Site.BaseURL }}"
+      "item": "{{ site.BaseURL }}"
     },
     {
       "@type": "ListItem",

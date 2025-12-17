@@ -7,6 +7,6 @@ nl:
     flag:
   permalinks:
     page:
-      services: /expertise/:slug
+      services: "/expertise/:slug"
     section:
-      services: /expertise/
+      services: "/expertise/"

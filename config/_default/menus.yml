@@ -1,13 +1,13 @@
 main:
   - name: Over mij
-    pageRef: /over-mij
+    url: /over-mij
     weight: 20
   - name: Expertise
-    pageRef: /expertise
+    url: /expertise
     weight: 30
   - name: F.A.Q.
-    pageRef: /faq
+    url: /faq
     weight: 40
   - name: Contact
-    pageRef: /contact
+    url: /contact
     weight: 50

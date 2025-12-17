@@ -282,11 +282,11 @@ collections:
   - name: "services"
     label: "Expertise pagina"
     files:
-      - name: "diensten"
+      - name: "expertise"
         label: "Diensten content"
       - name: "service"
         label: "Expertise content"
-        file: "content/nl/expertise.md"
+        file: "content/nl/services/_index.md"
         format: "frontmatter"
         fields:
           - label: "Pagina titel"

@@ -49,13 +49,13 @@ Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u pro
 
   Wij helpen bedrijven en medewerkers bij verzuim en ziekte. We geven advies over wet- en regelgeving, re-integratie en preventie.
 
-- - -
+---
 
 ## Hoe verloopt het adviestraject?
 
   We beginnen met een intakegesprek om de situatie te begrijpen en maken indien noodzakelijk een dossieranalyse. Daarna geven we advies op maat en ondersteunen we bij de uitvoering.
 
-- - -
+---
 
 ## Wat kost het om Q&A Verzuimadvies in te schakelen?
 

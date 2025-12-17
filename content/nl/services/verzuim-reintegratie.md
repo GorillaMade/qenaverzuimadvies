@@ -1,5 +1,5 @@
 ---
-title: Verzuimbegeleiding & Re-integratie
+title: Verzuim & Re-integratie
 image: /uploads/Schermafbeelding 2025-12-16 173036.png
 tags:
   - verzuim

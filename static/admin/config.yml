@@ -110,7 +110,7 @@ collections:
                       - label: "Services"
                         name: "services"
                         widget: "string"
-                        default: "/diensten/:slug"
+                        default: "/expertise/:slug"
                   - label: "Sectie"
                     name: "section"
                     widget: "object"
@@ -122,7 +122,7 @@ collections:
                       - label: "Services"
                         name: "services"
                         widget: "string"
-                        default: "/diensten/"
+                        default: "/expertise/"
 
       - name: "menu"
         label: "Menu instellingen"
@@ -284,7 +284,7 @@ collections:
     files:
       - name: "diensten"
         label: "Diensten content"
-        file: "content/nl/diensten.md"
+        file: "content/nl/expertise.md"
         format: "frontmatter"
         fields:
           - label: "Pagina titel"

@@ -1,5 +1,10 @@
 <img src="/form.php" style="position: absolute; opacity: 0; pointer-events: none;" />
-<form id="contactform" class="form flow" method="POST" action="{{ .action }}">
+<form id="contactform" class="form flow" 
+      method="POST" 
+      action="{{ .action }}"
+      hx-post="{{ .action }}"
+      hx-target="#form-container"
+      hx-swap="outerHTML">
     {{- range .fields -}}
         {{- if eq .input_type `textarea` -}}
             <div>

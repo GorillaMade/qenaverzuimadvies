@@ -279,10 +279,10 @@ collections:
             name: "body"
             widget: "markdown"
 
-  - name: "diensten"
-    label: "Diensten pagina"
+  - name: "services"
+    label: "Expertise pagina"
     files:
-      - name: "expertise"
+      - name: "service"
         label: "Expertise content"
         file: "content/nl/expertise.md"
         format: "frontmatter"
@@ -364,7 +364,7 @@ collections:
             widget: "markdown"
 
   - name: "services"
-    label: "Diensten"
+    label: "Expertise"
     folder: "content/nl/services"
     create: true
     slug: "{{slug}}"

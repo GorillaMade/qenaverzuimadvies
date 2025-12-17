@@ -42,16 +42,20 @@ jobs:
           CPANEL_POORT: "4000"
           DEPLOY_PATH: "/home/${{ secrets.CPANEL_USER }}/public_html/"
         run: |
-          # Configureer SSH key
+          # Configureer SSH key zonder passphrase
           mkdir -p ~/.ssh
-          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          printf "%s" "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -p 4000 -H $CPANEL_HOST >> ~/.ssh/known_hosts
-
-          # Test verbinding met SSH
-          ssh -p $CPANEL_POORT -v $CPANEL_USER@$CPANEL_HOST "echo ✅ Verbonden!"
-
-          # Synchroniseer bestanden met rsync
-          rsync -avz --delete --exclude-from=".rsync-exclude" -e "ssh -p $CPANEL_POORT" public/ $CPANEL_USER@$CPANEL_HOST:$DEPLOY_PATH
-
+      
+          # Voeg server toe aan known_hosts
+          ssh-keyscan -p $CPANEL_POORT -H $CPANEL_HOST >> ~/.ssh/known_hosts
+      
+          # Test SSH verbinding expliciet met key
+          ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes -p $CPANEL_POORT $CPANEL_USER@$CPANEL_HOST "echo ✅ Verbonden!"
+      
+          # rsync met expliciete key
+          rsync -avz --delete --exclude-from=".rsync-exclude" \
+            -e "ssh -i ~/.ssh/id_rsa -o IdentitiesOnly=yes -p $CPANEL_POORT" \
+            public/ $CPANEL_USER@$CPANEL_HOST:$DEPLOY_PATH
+      
           echo "✅ Deployment voltooid!"

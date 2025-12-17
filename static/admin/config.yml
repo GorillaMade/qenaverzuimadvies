@@ -284,7 +284,7 @@ collections:
     files:
       - name: "diensten"
         label: "Diensten content"
-        file: "content/nl/diensten.md"
+        file: "content/nl/expertise.md"
         format: "frontmatter"
         fields:
           - label: "Pagina titel"

@@ -1,0 +1,30 @@
+# Hugo build output
+/public/
+
+# Hugo cache
+/resources/_gen/
+/hugo_stats.json
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# Editor bestanden
+*.swp
+*.swo
+*.swn
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node / npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Deployment folder (optioneel, als je die niet wilt tracken)
+/dist/

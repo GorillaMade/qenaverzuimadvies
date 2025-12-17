@@ -62,5 +62,4 @@ Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u pro
   Tijd om een kennismakingsgesprek te hebben en te kijken welke ondersteuning nodig is. Neem [contact](/contact/) met ons op voor verdere informatie.
 
 {{< /block_faq >}}
-<!-- {{< block_reviews >}}{{< /block_reviews >}} -->
 {{< block_cta >}}{{< /block_cta >}}

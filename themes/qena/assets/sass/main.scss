@@ -345,7 +345,7 @@ section.about .wrapper p img {
 
 .contact .box {
     background: var(--neutral-50);
-    padding: var(--space-m);
+    padding: var(--space-s-l);
     border-radius: var(--radius-m);
     box-shadow: var(--shadow-m);
 }
@@ -370,7 +370,7 @@ section.about .wrapper p img {
 
 input:not([type="submit"], [type="checkbox"], [type="radio"]),
 textarea {
-    min-width: 100%;
+    width: 100%;
     padding: var(--space-2xs);
     border: 1px solid var(--neutral-200);
     border-radius: var(--radius-s);

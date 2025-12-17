@@ -284,7 +284,7 @@ collections:
     files:
       - name: "expertise"
         label: "Expertise content"
-        file: "content/nl/expertise.md"
+        file: "content/nl/services/_index.md"
         format: "frontmatter"
         fields:
           - label: "Pagina titel"
@@ -364,8 +364,8 @@ collections:
             widget: "markdown"
 
   - name: "services"
-    label: "Expertise"
-    folder: "content/nl/services"
+    label: "Diensten"
+    folder: "content/nl/services/"
     create: true
     slug: "{{slug}}"
     fields:

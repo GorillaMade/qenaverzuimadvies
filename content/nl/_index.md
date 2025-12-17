@@ -1,12 +1,14 @@
 ---
-title: "Home"
-description: "Persoonlijke verzuimbegeleiding en re-integratieadvies voor MKB-bedrijven. QenA Verzuimadvies biedt deskundige ondersteuning bij verzuim, re-integratie en conflictbemiddeling"
-
+title: Home
+description: Persoonlijke verzuimbegeleiding en re-integratieadvies voor
+  MKB-bedrijven. QenA Verzuimadvies biedt deskundige ondersteuning bij verzuim,
+  re-integratie en conflictbemiddeling
 meta:
-  title: "QenA Verzuimadvies | Verzuimbegeleiding & Re-integratie voor MKB"
-  description: "Grip op verzuim zonder gedoe. QenA Verzuimadvies ondersteunt MKB-ondernemers met persoonlijke verzuimbegeleiding, re-integratie en mediation."
+  title: QenA Verzuimadvies | Verzuimbegeleiding & Re-integratie voor MKB
+  description: Grip op verzuim zonder gedoe. QenA Verzuimadvies ondersteunt
+    MKB-ondernemers met persoonlijke verzuimbegeleiding, re-integratie en
+    mediation.
 ---
-
 {{< block_hero >}}
 
 # Q&A Verzuimadvies: échte aandacht, praktische hulp en geen gedoe.
@@ -34,29 +36,31 @@ Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist 
 
 Ik help uw organisatie met verzuimbegeleiding. Met mij aan uw zijde krijgt u professionele en persoonlijke ondersteuning. Ik bied onder andere:
 
-- **Persoonlijke aanpak**
-- **Heldere communicatie**
-- **No-nonsense advies**
-- **Expertise vanuit zowel werkgevers- als werknemersperspectief**
-- **Ondersteuning bij lastige gesprekken**
+* **Persoonlijke aanpak**
+* **Heldere communicatie**
+* **No-nonsense advies**
+* **Expertise vanuit zowel werkgevers- als werknemersperspectief**
+* **Ondersteuning bij lastige gesprekken**
 
 {{< /block_image >}}
 {{< block_faq title="Veel gestelde vragen" >}}
 
-  ## Wat doet Q&A Verzuimadvies precies?
+## Wat doet Q&A Verzuimadvies precies?
 
   Wij helpen bedrijven en medewerkers bij verzuim en ziekte. We geven advies over wet- en regelgeving, re-integratie en preventie.
-  ---
 
-  ## Hoe verloopt het adviestraject?
+- - -
+
+## Hoe verloopt het adviestraject?
 
   We beginnen met een intakegesprek om de situatie te begrijpen en maken indien noodzakelijk een dossieranalyse. Daarna geven we advies op maat en ondersteunen we bij de uitvoering.
 
-  ---
-  ## Wat kost het om Q&A Verzuimadvies in te schakelen?
+- - -
+
+## Wat kost het om Q&A Verzuimadvies in te schakelen?
 
   Tijd om een kennismakingsgesprek te hebben en te kijken welke ondersteuning nodig is. Neem [contact](/contact/) met ons op voor verdere informatie.
 
 {{< /block_faq >}}
-{{< block_reviews >}}{{< /block_reviews >}}
+<!-- {{< block_reviews >}}{{< /block_reviews >}} -->
 {{< block_cta >}}{{< /block_cta >}}

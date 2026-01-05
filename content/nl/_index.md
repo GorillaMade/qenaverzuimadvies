@@ -36,30 +36,30 @@ Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist 
 
 Ik help uw organisatie met verzuimbegeleiding. U krijgt professionele en persoonlijke ondersteuning. Ik bied onder andere:
 
-* **Persoonlijke aanpak**
-* **Heldere communicatie**
-* **No-nonsense advies**
-* **Expertise vanuit zowel werkgevers- als werknemersperspectief**
-* **Ondersteuning bij lastige gesprekken**
+* **Persoonlijke aanpak;**
+* **Heldere communicatie;**
+* **No-nonsense advies;**
+* **Expertise vanuit zowel werkgevers- als werknemersperspectief;**
+* **Ondersteuning bij lastige gesprekken.**
 
 {{< /block_image >}}
 {{< block_faq title="Veel gestelde vragen" >}}
 
 ## Wat doet Q&A Verzuimadvies precies?
 
-Wij helpen bedrijven en medewerkers bij verzuim en ziekte. We geven advies over wet- en regelgeving, re-integratie en preventie.
+Ik help bedrijven en medewerkers bij verzuim en ziekte en geef advies over wet- en regelgeving, re-integratie en preventie.
 
 - - -
 
 ## Hoe verloopt het adviestraject?
 
-We beginnen met een intakegesprek om de situatie te begrijpen en maken indien noodzakelijk een dossieranalyse. Daarna geven we advies op maat en ondersteunen we bij de uitvoering.
+We beginnen met een intakegesprek om de situatie te begrijpen en maken indien noodzakelijk een dossieranalyse. Daarna geef ik advies op maat en ondersteun ik bij de uitvoering.
 
 - - -
 
 ## Wat kost het om Q&A Verzuimadvies in te schakelen?
 
-Tijd om een kennismakingsgesprek te hebben en te kijken welke ondersteuning nodig is. Neem [contact](/contact/) met ons op voor verdere informatie.
+Tijd om een kennismakingsgesprek te hebben en te kijken welke ondersteuning nodig is. Neem [contact](/contact/) met mij op voor verdere informatie.
 
 {{< /block_faq >}}
 {{< block_cta >}}{{< /block_cta >}}

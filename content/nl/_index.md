@@ -36,11 +36,11 @@ Verzuimspecialist is de regisseur van het verzuimproces. Geen arts, geen jurist 
 
 Ik help uw organisatie met verzuimbegeleiding. U krijgt professionele en persoonlijke ondersteuning. Ik bied onder andere:
 
-* **Persoonlijke aanpak;**
-* **Heldere communicatie;**
-* **No-nonsense advies;**
-* **Expertise vanuit zowel werkgevers- als werknemersperspectief;**
-* **Ondersteuning bij lastige gesprekken.**
+* **Persoonlijke aanpak**
+* **Heldere communicatie**
+* **No-nonsense advies**
+* **Expertise vanuit zowel werkgevers- als werknemersperspectief**
+* **Ondersteuning bij lastige gesprekken**
 
 {{< /block_image >}}
 {{< block_faq title="Veel gestelde vragen" >}}
